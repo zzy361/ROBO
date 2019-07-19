@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+.vs/
+*.pyd
+*.exe
+*.so
+build/
+*.rar
+*.zip
+*.log
+.DS_Store
+__pycache__

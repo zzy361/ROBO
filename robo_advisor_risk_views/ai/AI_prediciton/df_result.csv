@@ -1,0 +1,3 @@
+,risk_date,asset,risk_level,comment,data_source,benchmark,create_time,modify_time,is_deleted,poc
+0,2019-01-17 14:57:53,美国股票,7,no comment,AI,SPX Index,2019-01-17 14:57:53,2019-01-17 14:57:53,0,--
+1,2019-01-17 14:57:53,美国投资级及以上债券,7,no comment,AI,I17660US Index,2019-01-17 14:57:53,2019-01-17 14:57:53,0,--

@@ -1,0 +1,1047 @@
+﻿Y,X,Corr,Corr_abs,Exp,Config,Table,Rank,Rank_Table,asset,CHN
+SPX Index,CHUF Index_44,-0.384962294,0.384962294,CHUF Index,44,jf_data.eco_nav,1,3,北美股票,标准普尔500指数
+SPX Index,CHUF Index_90,-0.367936672,0.367936672,CHUF Index,90,jf_data.eco_nav,2,5,北美股票,标准普尔500指数
+SPX Index,CPIIINDX Index_120,-0.371076932,0.371076932,CPIIINDX Index,120,jf_data.eco_nav,1,4,北美股票,标准普尔500指数
+SPX Index,CPIIINDX Index_250,-0.305384087,0.305384087,CPIIINDX Index,250,jf_data.eco_nav,2,9,北美股票,标准普尔500指数
+SPX Index,TAREDSC Index_0,-0.284907544,0.284907544,TAREDSC Index,0,jf_data.eco_nav,1,15,北美股票,标准普尔500指数
+SPX Index,DOETCRUD Index_44,0.314620628,0.314620628,DOETCRUD Index,44,jf_data.eco_nav,2,7,北美股票,标准普尔500指数
+SPX Index,DOETCRUD Index_120,0.420803166,0.420803166,DOETCRUD Index,120,jf_data.eco_nav,1,1,北美股票,标准普尔500指数
+SPX Index,ARDITRBM Index_10,-0.316150996,0.316150996,ARDITRBM Index,10,jf_data.eco_nav,1,6,北美股票,标准普尔500指数
+SPX Index,USRINDEX Index_250,-0.260323392,0.260323392,USRINDEX Index,250,jf_data.eco_nav,1,20,北美股票,标准普尔500指数
+SPX Index,CPMINMAN Index_44,0.385320817,0.385320817,CPMINMAN Index,44,jf_data.eco_nav,1,2,北美股票,标准普尔500指数
+SPX Index,CPMINMAN Index_120,0.294542106,0.294542106,CPMINMAN Index,120,jf_data.eco_nav,2,13,北美股票,标准普尔500指数
+SPX Index,JCOMSHCF Index_120,0.302644593,0.302644593,JCOMSHCF Index,120,jf_data.eco_nav,1,11,北美股票,标准普尔500指数
+SPX Index,ECO1GFKC Index_44,0.271154095,0.271154095,ECO1GFKC Index,44,jf_data.eco_nav,2,16,北美股票,标准普尔500指数
+SPX Index,ECO1GFKC Index_120,0.299774103,0.299774103,ECO1GFKC Index,120,jf_data.eco_nav,1,12,北美股票,标准普尔500指数
+SPX Index,OPCRTOTL Index_250,-0.286052696,0.286052696,OPCRTOTL Index,250,jf_data.eco_nav,1,14,北美股票,标准普尔500指数
+SPX Index,USRINDXQ Index_250,-0.261923642,0.261923642,USRINDXQ Index,250,jf_data.eco_nav,1,18,北美股票,标准普尔500指数
+SPX Index,JPNK400 Index_0,-0.264054537,0.264054537,JPNK400 Index,0,jf_data.index_ohlcv_pe,1,3,北美股票,标准普尔500指数
+SPX Index,JPNK400 Index_44,-0.234501962,0.234501962,JPNK400 Index,44,jf_data.index_ohlcv_pe,2,12,北美股票,标准普尔500指数
+SPX Index,KRX Index_44,-0.270725348,0.270725348,KRX Index,44,jf_data.index_ohlcv_pe,1,2,北美股票,标准普尔500指数
+SPX Index,SH000905 Index_90,0.229746092,0.229746092,SH000905 Index,90,jf_data.index_ohlcv_pe,1,20,北美股票,标准普尔500指数
+SPX Index,SHPROP Index_120,0.231727061,0.231727061,SHPROP Index,120,jf_data.index_ohlcv_pe,1,17,北美股票,标准普尔500指数
+SPX Index,TPXNTR Index_44,-0.231458892,0.231458892,TPXNTR Index,44,jf_data.index_ohlcv_pe,1,18,北美股票,标准普尔500指数
+SPX Index,MXWO0UT Index_0,-0.251684495,0.251684495,MXWO0UT Index,0,jf_data.index_ohlcv_pe,1,5,北美股票,标准普尔500指数
+SPX Index,EMUSTRUU Index_90,0.23382837,0.23382837,EMUSTRUU Index,90,jf_data.index_ohlcv_pe,1,13,北美股票,标准普尔500指数
+SPX Index,LUACTRUU Index_90,0.240581661,0.240581661,LUACTRUU Index,90,jf_data.index_ohlcv_pe,1,10,北美股票,标准普尔500指数
+SPX Index,LG20TRUU Index_90,0.239083092,0.239083092,LG20TRUU Index,90,jf_data.index_ohlcv_pe,1,11,北美股票,标准普尔500指数
+SPX Index,LD06TRUU Index_90,0.244262454,0.244262454,LD06TRUU Index,90,jf_data.index_ohlcv_pe,1,8,北美股票,标准普尔500指数
+SPX Index,I17660US Index_90,0.243623351,0.243623351,I17660US Index,90,jf_data.index_ohlcv_pe,1,9,北美股票,标准普尔500指数
+SPX Index,EURPLN Curncy_0,0.312676307,0.312676307,EURPLN Curncy,0,jf_data.index_ohlcv_pe,1,1,北美股票,标准普尔500指数
+SPX Index,EURPLN Curncy_250,0.256706313,0.256706313,EURPLN Curncy,250,jf_data.index_ohlcv_pe,2,4,北美股票,标准普尔500指数
+SPX Index,EURCZK Curncy_250,0.246928264,0.246928264,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,6,北美股票,标准普尔500指数
+SPX Index,EURHUF Curncy_250,0.24661735,0.24661735,EURHUF Curncy,250,jf_data.index_ohlcv_pe,1,7,北美股票,标准普尔500指数
+SPX Index,XPD Curncy_44,0.231428849,0.231428849,XPD Curncy,44,jf_data.index_ohlcv_pe,1,19,北美股票,标准普尔500指数
+SPX Index,ILS Curncy_250,0.231828508,0.231828508,ILS Curncy,250,jf_data.index_ohlcv_pe,1,16,北美股票,标准普尔500指数
+SPX Index,PLN Curncy_250,0.232661761,0.232661761,PLN Curncy,250,jf_data.index_ohlcv_pe,1,15,北美股票,标准普尔500指数
+SPX Index,TWOTCI Index_90,0.232780474,0.232780474,TWOTCI Index,90,jf_data.index_ohlcv_pe,1,14,北美股票,标准普尔500指数
+I17660US Index,FARBAST Index_250,0.334052898,0.334052898,FARBAST Index,250,jf_data.eco_nav,1,9,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,CERBTTAL Index_250,0.334642538,0.334642538,CERBTTAL Index,250,jf_data.eco_nav,1,8,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,FARWTSRF Index_250,0.333216225,0.333216225,FARWTSRF Index,250,jf_data.eco_nav,1,10,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,SOMHTOTL Index_90,0.298550651,0.298550651,SOMHTOTL Index,90,jf_data.eco_nav,2,19,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,SOMHTOTL Index_120,0.328826796,0.328826796,SOMHTOTL Index,120,jf_data.eco_nav,1,11,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,FARBRBFB Index_250,0.309002186,0.309002186,FARBRBFB Index,250,jf_data.eco_nav,1,16,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,FARWSHO Index_120,0.327528341,0.327528341,FARWSHO Index,120,jf_data.eco_nav,1,12,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,DOETCRUD Index_20,0.347738455,0.347738455,DOETCRUD Index,20,jf_data.eco_nav,2,6,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,DOETCRUD Index_44,0.415173725,0.415173725,DOETCRUD Index,44,jf_data.eco_nav,1,2,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,DOIDCRUD Index_44,0.355427443,0.355427443,DOIDCRUD Index,44,jf_data.eco_nav,1,4,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,ARDITRBM Index_250,0.320505761,0.320505761,ARDITRBM Index,250,jf_data.eco_nav,1,14,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,ARDIMONY Index_250,0.301850323,0.301850323,ARDIMONY Index,250,jf_data.eco_nav,1,18,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,RCHSINDX Index_250,0.325483247,0.325483247,RCHSINDX Index,250,jf_data.eco_nav,1,13,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,BSPGCPUS Index_20,0.31751852,0.31751852,BSPGCPUS Index,20,jf_data.eco_nav,1,15,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,DEBPTOTL Index_44,0.297158446,0.297158446,DEBPTOTL Index,44,jf_data.eco_nav,1,20,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,UKAPTARG Index_0,-0.352677368,0.352677368,UKAPTARG Index,0,jf_data.eco_nav,1,5,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,ECO1GFKC Index_10,0.385371766,0.385371766,ECO1GFKC Index,10,jf_data.eco_nav,2,3,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,ECO1GFKC Index_20,0.503078189,0.503078189,ECO1GFKC Index,20,jf_data.eco_nav,1,1,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,INRPYLDP Index_0,-0.305417827,0.305417827,INRPYLDP Index,0,jf_data.eco_nav,1,17,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,NYFANG Index_250,-0.273659027,0.273659027,NYFANG Index,250,jf_data.index_ohlcv_pe,1,19,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,JPNK400 Index_0,-0.295471285,0.295471285,JPNK400 Index,0,jf_data.index_ohlcv_pe,2,8,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,JPNK400 Index_250,-0.303267808,0.303267808,JPNK400 Index,250,jf_data.index_ohlcv_pe,1,7,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,SX86P Index_0,-0.273071008,0.273071008,SX86P Index,0,jf_data.index_ohlcv_pe,1,20,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,FSTREI Index_0,-0.308538658,0.308538658,FSTREI Index,0,jf_data.index_ohlcv_pe,1,5,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,KOSDQ150 Index_250,-0.312560438,0.312560438,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,3,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,TPXNTR Index_0,-0.276318098,0.276318098,TPXNTR Index,0,jf_data.index_ohlcv_pe,2,18,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,TPXNTR Index_250,-0.308083287,0.308083287,TPXNTR Index,250,jf_data.index_ohlcv_pe,1,6,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,MLEIVTXA Index_250,0.288648895,0.288648895,MLEIVTXA Index,250,jf_data.index_ohlcv_pe,1,10,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,QNET Index_250,-0.285700915,0.285700915,QNET Index,250,jf_data.index_ohlcv_pe,1,11,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,BFU5TRUU Index_10,0.295114403,0.295114403,BFU5TRUU Index,10,jf_data.index_ohlcv_pe,1,9,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,EMUSOAS Index_0,0.284539277,0.284539277,EMUSOAS Index,0,jf_data.index_ohlcv_pe,1,12,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,LG30OAS Index_0,0.28113716,0.28113716,LG30OAS Index,0,jf_data.index_ohlcv_pe,1,16,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,EURPLN Curncy_250,0.308726531,0.308726531,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,4,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,COP Curncy_20,-0.278715896,0.278715896,COP Curncy,20,jf_data.index_ohlcv_pe,1,17,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,MXWO0RE Index_0,-0.283194703,0.283194703,MXWO0RE Index,0,jf_data.index_ohlcv_pe,1,13,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,BSSAOAS Index_0,0.282448483,0.282448483,BSSAOAS Index,0,jf_data.index_ohlcv_pe,1,15,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,FLQ1IN Index_250,-0.324531676,0.324531676,FLQ1IN Index,250,jf_data.index_ohlcv_pe,1,2,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,GSUSFCI Index_0,0.282777749,0.282777749,GSUSFCI Index,0,jf_data.index_ohlcv_pe,1,14,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+I17660US Index,HFRXGL Index_0,-0.333279063,0.333279063,HFRXGL Index,0,jf_data.index_ohlcv_pe,1,1,北美投资级及以上债券,彭博巴克莱美国投资级公司债指数
+LF98TRUU Index,CHUF Index_44,-0.375953776,0.375953776,CHUF Index,44,jf_data.eco_nav,2,11,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,CHUF Index_90,-0.427856177,0.427856177,CHUF Index,90,jf_data.eco_nav,1,5,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,CPIIINDX Index_90,-0.405634386,0.405634386,CPIIINDX Index,90,jf_data.eco_nav,2,7,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,CPIIINDX Index_120,-0.456751259,0.456751259,CPIIINDX Index,120,jf_data.eco_nav,1,1,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,TAREDSC Index_0,-0.360014139,0.360014139,TAREDSC Index,0,jf_data.eco_nav,1,14,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,INRPYLD Index_0,-0.356180285,0.356180285,INRPYLD Index,0,jf_data.eco_nav,1,15,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,DOETCRUD Index_44,0.44339291,0.44339291,DOETCRUD Index,44,jf_data.eco_nav,1,2,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,DOETCRUD Index_120,0.4353273,0.4353273,DOETCRUD Index,120,jf_data.eco_nav,2,4,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,ARDITRBM Index_10,-0.427201853,0.427201853,ARDITRBM Index,10,jf_data.eco_nav,1,6,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,KORP7DR Index_250,-0.388681426,0.388681426,KORP7DR Index,250,jf_data.eco_nav,1,9,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,CONSPXMD Index_250,-0.365384696,0.365384696,CONSPXMD Index,250,jf_data.eco_nav,1,13,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,RCHSINDX Index_250,0.335157516,0.335157516,RCHSINDX Index,250,jf_data.eco_nav,1,19,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,UKAPTARG Index_0,-0.338791518,0.338791518,UKAPTARG Index,0,jf_data.eco_nav,1,17,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,ECO1GFKC Index_20,0.397032639,0.397032639,ECO1GFKC Index,20,jf_data.eco_nav,2,8,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,ECO1GFKC Index_44,0.443071415,0.443071415,ECO1GFKC Index,44,jf_data.eco_nav,1,3,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,THCPI Index_20,0.335036902,0.335036902,THCPI Index,20,jf_data.eco_nav,1,20,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,TWIRFE Index_20,0.38137755,0.38137755,TWIRFE Index,20,jf_data.eco_nav,1,10,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,TWIRFE Index_44,0.33781693,0.33781693,TWIRFE Index,44,jf_data.eco_nav,2,18,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,INRPYLDP Index_0,-0.373262342,0.373262342,INRPYLDP Index,0,jf_data.eco_nav,1,12,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,TWSE Index_20,0.369938789,0.369938789,TWSE Index,20,jf_data.index_ohlcv_pe,1,13,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,JPNK400 Index_250,-0.399431799,0.399431799,JPNK400 Index,250,jf_data.index_ohlcv_pe,1,3,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,TPXNTR Index_250,-0.400779091,0.400779091,TPXNTR Index,250,jf_data.index_ohlcv_pe,1,2,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,MLEIVTXA Index_250,0.364714358,0.364714358,MLEIVTXA Index,250,jf_data.index_ohlcv_pe,1,16,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,EMUSTRUU Index_20,0.365231422,0.365231422,EMUSTRUU Index,20,jf_data.index_ohlcv_pe,1,14,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LGDRTRUU Index_20,0.384279742,0.384279742,LGDRTRUU Index,20,jf_data.index_ohlcv_pe,1,7,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LUACTRUU Index_10,0.358116185,0.358116185,LUACTRUU Index,10,jf_data.index_ohlcv_pe,1,20,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,EMLCTRUU Index_20,0.363607688,0.363607688,EMLCTRUU Index,20,jf_data.index_ohlcv_pe,1,18,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,IBOXIG Index_10,0.381762555,0.381762555,IBOXIG Index,10,jf_data.index_ohlcv_pe,1,10,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LGCPTRUU Index_10,0.36079085,0.36079085,LGCPTRUU Index,10,jf_data.index_ohlcv_pe,2,19,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LGCPTRUU Index_20,0.389607868,0.389607868,LGCPTRUU Index,20,jf_data.index_ohlcv_pe,1,4,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LG20TRUU Index_20,0.386660148,0.386660148,LG20TRUU Index,20,jf_data.index_ohlcv_pe,1,5,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LD06TRUU Index_10,0.373626387,0.373626387,LD06TRUU Index,10,jf_data.index_ohlcv_pe,1,12,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,I17660US Index_10,0.36443001,0.36443001,I17660US Index,10,jf_data.index_ohlcv_pe,1,17,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,LGCPTRUH Index_10,0.365056935,0.365056935,LGCPTRUH Index,10,jf_data.index_ohlcv_pe,1,15,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,BFU5TRUU Index_10,0.381906996,0.381906996,BFU5TRUU Index,10,jf_data.index_ohlcv_pe,1,9,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,AUDCAD Curncy_44,0.373638672,0.373638672,AUDCAD Curncy,44,jf_data.index_ohlcv_pe,1,11,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,TWOTCI Index_20,0.381925737,0.381925737,TWOTCI Index,20,jf_data.index_ohlcv_pe,1,8,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,FLQE7INR Index_20,0.384432113,0.384432113,FLQE7INR Index,20,jf_data.index_ohlcv_pe,1,6,北美高收益债券,彭博巴克莱美国高收益债指数
+LF98TRUU Index,MICEX10 Index_44,0.40914178,0.40914178,MICEX10 Index,44,jf_data.index_ohlcv_pe,1,1,北美高收益债券,彭博巴克莱美国高收益债指数
+RMZ Index,CHUF Index_90,-0.322686766,0.322686766,CHUF Index,90,jf_data.eco_nav,1,5,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,CPIIINDX Index_120,-0.294278487,0.294278487,CPIIINDX Index,120,jf_data.eco_nav,1,10,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,CPIIINDX Index_250,-0.282071006,0.282071006,CPIIINDX Index,250,jf_data.eco_nav,2,17,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,CHOVCHOV Index_0,-0.290527837,0.290527837,CHOVCHOV Index,0,jf_data.eco_nav,1,11,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,FARBRBFB Index_10,-0.279783249,0.279783249,FARBRBFB Index,10,jf_data.eco_nav,2,18,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,FARBRBFB Index_20,-0.289975037,0.289975037,FARBRBFB Index,20,jf_data.eco_nav,1,12,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,WMMFAMAC Index_10,-0.283208512,0.283208512,WMMFAMAC Index,10,jf_data.eco_nav,1,16,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,WMMFAMAC Index_20,-0.278574788,0.278574788,WMMFAMAC Index,20,jf_data.eco_nav,2,19,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,FED5YEAR Index_20,-0.288097426,0.288097426,FED5YEAR Index,20,jf_data.eco_nav,1,13,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,DOETCRUD Index_44,0.41812621,0.41812621,DOETCRUD Index,44,jf_data.eco_nav,1,1,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,DOETCRUD Index_120,0.378392958,0.378392958,DOETCRUD Index,120,jf_data.eco_nav,2,2,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,ARDITRBM Index_10,-0.350343537,0.350343537,ARDITRBM Index,10,jf_data.eco_nav,1,3,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,ARDITRBM Index_20,-0.30888664,0.30888664,ARDITRBM Index,20,jf_data.eco_nav,2,7,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,CPMINMAN Index_44,0.325838435,0.325838435,CPMINMAN Index,44,jf_data.eco_nav,1,4,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,COMFBTWR Index_44,-0.287299002,0.287299002,COMFBTWR Index,44,jf_data.eco_nav,1,14,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,ECO1GFKC Index_44,0.307402718,0.307402718,ECO1GFKC Index,44,jf_data.eco_nav,2,8,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,ECO1GFKC Index_120,0.309209478,0.309209478,ECO1GFKC Index,120,jf_data.eco_nav,1,6,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,THCPI Index_44,0.286399697,0.286399697,THCPI Index,44,jf_data.eco_nav,1,15,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,USRINDXQ Index_250,-0.301697434,0.301697434,USRINDXQ Index,250,jf_data.eco_nav,1,9,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,NYFANG Index_250,-0.290797339,0.290797339,NYFANG Index,250,jf_data.index_ohlcv_pe,1,6,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,JPNK400 Index_120,-0.265812679,0.265812679,JPNK400 Index,120,jf_data.index_ohlcv_pe,1,17,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,KOSDQ150 Index_20,-0.271462929,0.271462929,KOSDQ150 Index,20,jf_data.index_ohlcv_pe,1,14,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,NSEIT Index_90,0.260459986,0.260459986,NSEIT Index,90,jf_data.index_ohlcv_pe,1,20,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,TPXNTR Index_120,-0.273090095,0.273090095,TPXNTR Index,120,jf_data.index_ohlcv_pe,1,12,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,RTYFAST Index_250,-0.278129511,0.278129511,RTYFAST Index,250,jf_data.index_ohlcv_pe,1,10,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,GIND10YR Index_44,0.266235944,0.266235944,GIND10YR Index,44,jf_data.index_ohlcv_pe,1,16,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,LD06TRUU Index_90,0.276139981,0.276139981,LD06TRUU Index,90,jf_data.index_ohlcv_pe,1,11,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,IBXXC2D1 Index_44,-0.289676234,0.289676234,IBXXC2D1 Index,44,jf_data.index_ohlcv_pe,2,7,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,IBXXC2D1 Index_120,-0.321187862,0.321187862,IBXXC2D1 Index,120,jf_data.index_ohlcv_pe,1,3,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,I17660US Index_10,0.262792906,0.262792906,I17660US Index,10,jf_data.index_ohlcv_pe,1,18,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,I17660US Index_90,0.262010828,0.262010828,I17660US Index,90,jf_data.index_ohlcv_pe,2,19,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,LGCPTRUH Index_10,0.279698348,0.279698348,LGCPTRUH Index,10,jf_data.index_ohlcv_pe,1,9,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,IBXXC1D1 Index_90,-0.29294813,0.29294813,IBXXC1D1 Index,90,jf_data.index_ohlcv_pe,2,5,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,IBXXC1D1 Index_120,-0.343448678,0.343448678,IBXXC1D1 Index,120,jf_data.index_ohlcv_pe,1,2,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,IB8A Index_120,0.267732725,0.267732725,IB8A Index,120,jf_data.index_ohlcv_pe,1,15,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,FLQ1IN Index_90,-0.293531683,0.293531683,FLQ1IN Index,90,jf_data.index_ohlcv_pe,2,4,美国房地产,MSCI美国房地产投资信托指数
+RMZ Index,FLQ1IN Index_250,-0.345924617,0.345924617,FLQ1IN Index,250,jf_data.index_ohlcv_pe,1,1,美国房地产,MSCI美国房地产投资信托指数
+MXEU Index,CHUF Index_44,-0.355426648,0.355426648,CHUF Index,44,jf_data.eco_nav,2,7,欧洲股票,MSCI欧洲指数
+MXEU Index,CHUF Index_90,-0.364735533,0.364735533,CHUF Index,90,jf_data.eco_nav,1,4,欧洲股票,MSCI欧洲指数
+MXEU Index,CPIIINDX Index_120,-0.350287848,0.350287848,CPIIINDX Index,120,jf_data.eco_nav,1,8,欧洲股票,MSCI欧洲指数
+MXEU Index,CPIIINDX Index_250,-0.290422249,0.290422249,CPIIINDX Index,250,jf_data.eco_nav,2,16,欧洲股票,MSCI欧洲指数
+MXEU Index,RREFKEYR Index_90,0.368901671,0.368901671,RREFKEYR Index,90,jf_data.eco_nav,1,2,欧洲股票,MSCI欧洲指数
+MXEU Index,RREFKEYR Index_250,0.361033769,0.361033769,RREFKEYR Index,250,jf_data.eco_nav,2,6,欧洲股票,MSCI欧洲指数
+MXEU Index,RREFKANN Index_90,0.368088545,0.368088545,RREFKANN Index,90,jf_data.eco_nav,1,3,欧洲股票,MSCI欧洲指数
+MXEU Index,RREFKANN Index_250,0.361797488,0.361797488,RREFKANN Index,250,jf_data.eco_nav,2,5,欧洲股票,MSCI欧洲指数
+MXEU Index,DOETCRUD Index_120,0.389794552,0.389794552,DOETCRUD Index,120,jf_data.eco_nav,1,1,欧洲股票,MSCI欧洲指数
+MXEU Index,USRINDEX Index_250,-0.309041375,0.309041375,USRINDEX Index,250,jf_data.eco_nav,1,12,欧洲股票,MSCI欧洲指数
+MXEU Index,CPMINMAN Index_44,0.338871668,0.338871668,CPMINMAN Index,44,jf_data.eco_nav,1,9,欧洲股票,MSCI欧洲指数
+MXEU Index,CONSPXMD Index_250,-0.287937819,0.287937819,CONSPXMD Index,250,jf_data.eco_nav,1,17,欧洲股票,MSCI欧洲指数
+MXEU Index,PMISSURV Index_44,0.296897006,0.296897006,PMISSURV Index,44,jf_data.eco_nav,1,14,欧洲股票,MSCI欧洲指数
+MXEU Index,JCOMSHCF Index_120,0.2934572,0.2934572,JCOMSHCF Index,120,jf_data.eco_nav,1,15,欧洲股票,MSCI欧洲指数
+MXEU Index,OPCRTOTL Index_250,-0.299669462,0.299669462,OPCRTOTL Index,250,jf_data.eco_nav,1,13,欧洲股票,MSCI欧洲指数
+MXEU Index,USRINDXQ Index_250,-0.311070536,0.311070536,USRINDXQ Index,250,jf_data.eco_nav,1,11,欧洲股票,MSCI欧洲指数
+MXEU Index,EHPIEMG Index_90,-0.282645936,0.282645936,EHPIEMG Index,90,jf_data.eco_nav,1,20,欧洲股票,MSCI欧洲指数
+MXEU Index,NYFANG Index_250,-0.266036488,0.266036488,NYFANG Index,250,jf_data.index_ohlcv_pe,1,8,欧洲股票,MSCI欧洲指数
+MXEU Index,SX6P Index_0,-0.248693477,0.248693477,SX6P Index,0,jf_data.index_ohlcv_pe,1,16,欧洲股票,MSCI欧洲指数
+MXEU Index,MXWO0EN Index_0,-0.252342443,0.252342443,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,14,欧洲股票,MSCI欧洲指数
+MXEU Index,JPNK400 Index_0,-0.277689322,0.277689322,JPNK400 Index,0,jf_data.index_ohlcv_pe,1,5,欧洲股票,MSCI欧洲指数
+MXEU Index,MXWDU Index_0,-0.249541285,0.249541285,MXWDU Index,0,jf_data.index_ohlcv_pe,1,15,欧洲股票,MSCI欧洲指数
+MXEU Index,PMOMENUS Index_90,-0.257152482,0.257152482,PMOMENUS Index,90,jf_data.index_ohlcv_pe,1,12,欧洲股票,MSCI欧洲指数
+MXEU Index,MXWOU Index_0,-0.247794517,0.247794517,MXWOU Index,0,jf_data.index_ohlcv_pe,1,17,欧洲股票,MSCI欧洲指数
+MXEU Index,SHPROP Index_120,0.252671541,0.252671541,SHPROP Index,120,jf_data.index_ohlcv_pe,1,13,欧洲股票,MSCI欧洲指数
+MXEU Index,TPXNTR Index_0,-0.245257895,0.245257895,TPXNTR Index,0,jf_data.index_ohlcv_pe,1,19,欧洲股票,MSCI欧洲指数
+MXEU Index,MXWO0UT Index_0,-0.270828855,0.270828855,MXWO0UT Index,0,jf_data.index_ohlcv_pe,1,6,欧洲股票,MSCI欧洲指数
+MXEU Index,EURPLN Curncy_0,0.303671121,0.303671121,EURPLN Curncy,0,jf_data.index_ohlcv_pe,1,1,欧洲股票,MSCI欧洲指数
+MXEU Index,EURPLN Curncy_250,0.288307346,0.288307346,EURPLN Curncy,250,jf_data.index_ohlcv_pe,2,2,欧洲股票,MSCI欧洲指数
+MXEU Index,EURCZK Curncy_250,0.265151991,0.265151991,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,9,欧洲股票,MSCI欧洲指数
+MXEU Index,EURHUF Curncy_250,0.269794002,0.269794002,EURHUF Curncy,250,jf_data.index_ohlcv_pe,1,7,欧洲股票,MSCI欧洲指数
+MXEU Index,ILS Curncy_250,0.284670981,0.284670981,ILS Curncy,250,jf_data.index_ohlcv_pe,1,3,欧洲股票,MSCI欧洲指数
+MXEU Index,PLN Curncy_250,0.282611156,0.282611156,PLN Curncy,250,jf_data.index_ohlcv_pe,1,4,欧洲股票,MSCI欧洲指数
+MXEU Index,QS1 Comdty_250,-0.244471771,0.244471771,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,20,欧洲股票,MSCI欧洲指数
+MXEU Index,SPGSCITR Index_250,-0.246605706,0.246605706,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,18,欧洲股票,MSCI欧洲指数
+MXEU Index,BCNCTRNU Index_90,-0.26330497,0.26330497,BCNCTRNU Index,90,jf_data.index_ohlcv_pe,1,11,欧洲股票,MSCI欧洲指数
+MXEU Index,FLQ1IN Index_90,-0.263579036,0.263579036,FLQ1IN Index,90,jf_data.index_ohlcv_pe,1,10,欧洲股票,MSCI欧洲指数
+QW1A Index,RREFKEYR Index_44,0.244193494,0.244193494,RREFKEYR Index,44,jf_data.eco_nav,2,6,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,RREFKEYR Index_90,0.289209026,0.289209026,RREFKEYR Index,90,jf_data.eco_nav,1,3,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,RREFKANN Index_44,0.255850857,0.255850857,RREFKANN Index,44,jf_data.eco_nav,2,5,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,RREFKANN Index_90,0.306057346,0.306057346,RREFKANN Index,90,jf_data.eco_nav,1,2,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,USRINDEX Index_120,-0.23732637,0.23732637,USRINDEX Index,120,jf_data.eco_nav,1,7,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,USRINDXQ Index_44,-0.326486399,0.326486399,USRINDXQ Index,44,jf_data.eco_nav,1,1,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,OMRSD401 Index_20,-0.261606222,0.261606222,OMRSD401 Index,20,jf_data.eco_nav,1,4,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,PSI20 Index_44,-0.220980275,0.220980275,PSI20 Index,44,jf_data.index_ohlcv_pe,1,19,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,ATX Index_44,-0.221908643,0.221908643,ATX Index,44,jf_data.index_ohlcv_pe,1,17,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,JPNK400 Index_0,-0.277912393,0.277912393,JPNK400 Index,0,jf_data.index_ohlcv_pe,1,1,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,JPNK400 Index_120,-0.22330032,0.22330032,JPNK400 Index,120,jf_data.index_ohlcv_pe,2,16,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,AXX Index_44,-0.24025858,0.24025858,AXX Index,44,jf_data.index_ohlcv_pe,1,6,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,NDDUJN Index_120,-0.235327227,0.235327227,NDDUJN Index,120,jf_data.index_ohlcv_pe,1,9,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,ITMC Index_44,-0.233088042,0.233088042,ITMC Index,44,jf_data.index_ohlcv_pe,1,13,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,AMX Index_44,-0.221236354,0.221236354,AMX Index,44,jf_data.index_ohlcv_pe,1,18,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,OMXC20CP Index_0,-0.267958037,0.267958037,OMXC20CP Index,0,jf_data.index_ohlcv_pe,1,3,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,AIM100 Index_44,-0.254009398,0.254009398,AIM100 Index,44,jf_data.index_ohlcv_pe,1,4,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,TPXNTR Index_0,-0.273937667,0.273937667,TPXNTR Index,0,jf_data.index_ohlcv_pe,1,2,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,TPXNTR Index_120,-0.235265698,0.235265698,TPXNTR Index,120,jf_data.index_ohlcv_pe,2,10,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,IBXXC2D1 Index_120,-0.238079512,0.238079512,IBXXC2D1 Index,120,jf_data.index_ohlcv_pe,1,7,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,RUB Curncy_44,0.225373387,0.225373387,RUB Curncy,44,jf_data.index_ohlcv_pe,1,14.5,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,USDRUB Curncy_44,0.225373387,0.225373387,USDRUB Curncy,44,jf_data.index_ohlcv_pe,1,14.5,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,XW1 Comdty_120,-0.236421836,0.236421836,XW1 Comdty,120,jf_data.index_ohlcv_pe,2,8,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,XW1 Comdty_250,-0.250122685,0.250122685,XW1 Comdty,250,jf_data.index_ohlcv_pe,1,5,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,FTJPNN Index_120,-0.234930913,0.234930913,FTJPNN Index,120,jf_data.index_ohlcv_pe,1,11,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+QW1A Index,FLQ1IN Index_120,-0.234263416,0.234263416,FLQ1IN Index,120,jf_data.index_ohlcv_pe,1,12,欧洲投资级及以上债券,IBOXX欧元区主权债指数
+LP01TREU Index,CHUF Index_90,-0.545087849,0.545087849,CHUF Index,90,jf_data.eco_nav,1,1,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,CHUF Index_120,-0.4186049,0.4186049,CHUF Index,120,jf_data.eco_nav,2,17,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,CPIIINDX Index_90,-0.415682809,0.415682809,CPIIINDX Index,90,jf_data.eco_nav,2,20,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,CPIIINDX Index_120,-0.51452656,0.51452656,CPIIINDX Index,120,jf_data.eco_nav,1,2,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,MAOPRATE Index_0,-0.43512049,0.43512049,MAOPRATE Index,0,jf_data.eco_nav,1,12,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,KLIB3M Index_0,-0.452493414,0.452493414,KLIB3M Index,0,jf_data.eco_nav,1,10,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,KLIB1M Index_0,-0.458275161,0.458275161,KLIB1M Index,0,jf_data.eco_nav,1,5,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,TAREDSC Index_250,-0.416482843,0.416482843,TAREDSC Index,250,jf_data.eco_nav,1,18,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,SOMHTOTL Index_20,0.423815629,0.423815629,SOMHTOTL Index,20,jf_data.eco_nav,2,15,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,SOMHTOTL Index_44,0.453832996,0.453832996,SOMHTOTL Index,44,jf_data.eco_nav,1,7,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,FARWSHO Index_20,0.424228382,0.424228382,FARWSHO Index,20,jf_data.eco_nav,2,14,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,FARWSHO Index_44,0.453116889,0.453116889,FARWSHO Index,44,jf_data.eco_nav,1,8,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,DOETCRUD Index_120,0.452986666,0.452986666,DOETCRUD Index,120,jf_data.eco_nav,1,9,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,CPMINDX Index_90,0.488169943,0.488169943,CPMINDX Index,90,jf_data.eco_nav,1,3,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,KORP7DR Index_250,-0.478285634,0.478285634,KORP7DR Index,250,jf_data.eco_nav,1,4,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,CONSPXMD Index_250,-0.458002639,0.458002639,CONSPXMD Index,250,jf_data.eco_nav,1,6,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,NOUE Index_250,0.421261587,0.421261587,NOUE Index,250,jf_data.eco_nav,1,16,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,OPCRTOTL Index_250,-0.426652437,0.426652437,OPCRTOTL Index,250,jf_data.eco_nav,1,13,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,INRPYLDP Index_0,-0.435400209,0.435400209,INRPYLDP Index,0,jf_data.eco_nav,1,11,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,CANLXEMR Index_120,0.416332962,0.416332962,CANLXEMR Index,120,jf_data.eco_nav,1,19,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,TWSE Index_20,0.437337221,0.437337221,TWSE Index,20,jf_data.index_ohlcv_pe,1,5,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,TWSE Index_44,0.426529512,0.426529512,TWSE Index,44,jf_data.index_ohlcv_pe,2,7,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,IMOEX Index_44,0.421786421,0.421786421,IMOEX Index,44,jf_data.index_ohlcv_pe,1,11,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,TAMSCI Index_20,0.417991107,0.417991107,TAMSCI Index,20,jf_data.index_ohlcv_pe,1,16,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,PMOMENUS Index_20,-0.422885787,0.422885787,PMOMENUS Index,20,jf_data.index_ohlcv_pe,1,10,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,PMOMENUS Index_120,-0.42165344,0.42165344,PMOMENUS Index,120,jf_data.index_ohlcv_pe,2,12,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,DJTMNMO Index_20,-0.407727336,0.407727336,DJTMNMO Index,20,jf_data.index_ohlcv_pe,1,19,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,OMXC20CP Index_0,-0.419018715,0.419018715,OMXC20CP Index,0,jf_data.index_ohlcv_pe,1,15,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,MLEIVTXA Index_250,0.459815653,0.459815653,MLEIVTXA Index,250,jf_data.index_ohlcv_pe,1,2,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,BFU5TRUU Index_10,0.427765488,0.427765488,BFU5TRUU Index,10,jf_data.index_ohlcv_pe,1,6,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,IB8A Index_120,0.42160231,0.42160231,IB8A Index,120,jf_data.index_ohlcv_pe,1,13,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,EURPLN Curncy_250,0.42466357,0.42466357,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,9,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,TWOTCI Index_20,0.455258307,0.455258307,TWOTCI Index,20,jf_data.index_ohlcv_pe,1,3,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,TWOTCI Index_44,0.441450993,0.441450993,TWOTCI Index,44,jf_data.index_ohlcv_pe,2,4,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,MXEFSC Index_20,0.425632674,0.425632674,MXEFSC Index,20,jf_data.index_ohlcv_pe,1,8,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,MXASJSC Index_20,0.40831379,0.40831379,MXASJSC Index,20,jf_data.index_ohlcv_pe,1,18,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,FTTWN Index_20,0.407371442,0.407371442,FTTWN Index,20,jf_data.index_ohlcv_pe,1,20,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,FLQE7INR Index_20,0.410857831,0.410857831,FLQE7INR Index,20,jf_data.index_ohlcv_pe,1,17,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+LP01TREU Index,MICEX10 Index_44,0.475176294,0.475176294,MICEX10 Index,44,jf_data.index_ohlcv_pe,1,1,欧洲高收益债券,彭博巴克莱泛欧高收益债指数
+MXEF Index,CHUF Index_44,-0.374805556,0.374805556,CHUF Index,44,jf_data.eco_nav,1,3,新兴市场股票,MSCI新兴市场指数
+MXEF Index,CHUF Index_90,-0.337775431,0.337775431,CHUF Index,90,jf_data.eco_nav,2,8,新兴市场股票,MSCI新兴市场指数
+MXEF Index,CPIIINDX Index_90,-0.360521518,0.360521518,CPIIINDX Index,90,jf_data.eco_nav,2,4,新兴市场股票,MSCI新兴市场指数
+MXEF Index,CPIIINDX Index_120,-0.416123058,0.416123058,CPIIINDX Index,120,jf_data.eco_nav,1,1,新兴市场股票,MSCI新兴市场指数
+MXEF Index,MAOPRATE Index_90,-0.298471135,0.298471135,MAOPRATE Index,90,jf_data.eco_nav,1,15,新兴市场股票,MSCI新兴市场指数
+MXEF Index,KLIB3M Index_44,-0.306831071,0.306831071,KLIB3M Index,44,jf_data.eco_nav,1,12,新兴市场股票,MSCI新兴市场指数
+MXEF Index,KLIB3M Index_120,-0.289663205,0.289663205,KLIB3M Index,120,jf_data.eco_nav,2,17,新兴市场股票,MSCI新兴市场指数
+MXEF Index,DOETCRUD Index_44,0.319414662,0.319414662,DOETCRUD Index,44,jf_data.eco_nav,2,10,新兴市场股票,MSCI新兴市场指数
+MXEF Index,DOETCRUD Index_120,0.352183616,0.352183616,DOETCRUD Index,120,jf_data.eco_nav,1,5,新兴市场股票,MSCI新兴市场指数
+MXEF Index,ARDITRBM Index_10,-0.315081461,0.315081461,ARDITRBM Index,10,jf_data.eco_nav,1,11,新兴市场股票,MSCI新兴市场指数
+MXEF Index,CPMINMAN Index_44,0.405825234,0.405825234,CPMINMAN Index,44,jf_data.eco_nav,1,2,新兴市场股票,MSCI新兴市场指数
+MXEF Index,KORP7DR Index_250,-0.290243242,0.290243242,KORP7DR Index,250,jf_data.eco_nav,1,16,新兴市场股票,MSCI新兴市场指数
+MXEF Index,CONSPXMD Index_0,-0.304619534,0.304619534,CONSPXMD Index,0,jf_data.eco_nav,2,13,新兴市场股票,MSCI新兴市场指数
+MXEF Index,CONSPXMD Index_250,-0.350806793,0.350806793,CONSPXMD Index,250,jf_data.eco_nav,1,6,新兴市场股票,MSCI新兴市场指数
+MXEF Index,EMPRPAID Index_0,-0.322048111,0.322048111,EMPRPAID Index,0,jf_data.eco_nav,1,9,新兴市场股票,MSCI新兴市场指数
+MXEF Index,ECO1GFKC Index_44,0.287075654,0.287075654,ECO1GFKC Index,44,jf_data.eco_nav,2,19,新兴市场股票,MSCI新兴市场指数
+MXEF Index,ECO1GFKC Index_90,0.287273686,0.287273686,ECO1GFKC Index,90,jf_data.eco_nav,1,18,新兴市场股票,MSCI新兴市场指数
+MXEF Index,OPCRTOTL Index_250,-0.342372573,0.342372573,OPCRTOTL Index,250,jf_data.eco_nav,1,7,新兴市场股票,MSCI新兴市场指数
+MXEF Index,INRPYLDP Index_0,-0.300057563,0.300057563,INRPYLDP Index,0,jf_data.eco_nav,1,14,新兴市场股票,MSCI新兴市场指数
+MXEF Index,NYFANG Index_44,-0.287966844,0.287966844,NYFANG Index,44,jf_data.index_ohlcv_pe,1,16,新兴市场股票,MSCI新兴市场指数
+MXEF Index,S5ENRS Index_0,-0.294993857,0.294993857,S5ENRS Index,0,jf_data.index_ohlcv_pe,1,12,新兴市场股票,MSCI新兴市场指数
+MXEF Index,MXWO0EN Index_0,-0.308424816,0.308424816,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,6,新兴市场股票,MSCI新兴市场指数
+MXEF Index,KOSDQ150 Index_250,-0.288642949,0.288642949,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,14,新兴市场股票,MSCI新兴市场指数
+MXEF Index,IXE Index_0,-0.29590559,0.29590559,IXE Index,0,jf_data.index_ohlcv_pe,1,11,新兴市场股票,MSCI新兴市场指数
+MXEF Index,S5OILP Index_0,-0.284184921,0.284184921,S5OILP Index,0,jf_data.index_ohlcv_pe,1,19,新兴市场股票,MSCI新兴市场指数
+MXEF Index,XOI Index_0,-0.30710439,0.30710439,XOI Index,0,jf_data.index_ohlcv_pe,1,7,新兴市场股票,MSCI新兴市场指数
+MXEF Index,SHPROP Index_120,0.310913886,0.310913886,SHPROP Index,120,jf_data.index_ohlcv_pe,1,4,新兴市场股票,MSCI新兴市场指数
+MXEF Index,EURPLN Curncy_0,0.311340204,0.311340204,EURPLN Curncy,0,jf_data.index_ohlcv_pe,2,3,新兴市场股票,MSCI新兴市场指数
+MXEF Index,EURPLN Curncy_250,0.329788247,0.329788247,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,1,新兴市场股票,MSCI新兴市场指数
+MXEF Index,EURCZK Curncy_250,0.28504771,0.28504771,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,18,新兴市场股票,MSCI新兴市场指数
+MXEF Index,ILS Curncy_250,0.283235451,0.283235451,ILS Curncy,250,jf_data.index_ohlcv_pe,1,20,新兴市场股票,MSCI新兴市场指数
+MXEF Index,PLN Curncy_250,0.309949001,0.309949001,PLN Curncy,250,jf_data.index_ohlcv_pe,1,5,新兴市场股票,MSCI新兴市场指数
+MXEF Index,QS1 Comdty_250,-0.288145262,0.288145262,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,15,新兴市场股票,MSCI新兴市场指数
+MXEF Index,FN1 Comdty_0,-0.288914325,0.288914325,FN1 Comdty,0,jf_data.index_ohlcv_pe,1,13,新兴市场股票,MSCI新兴市场指数
+MXEF Index,SPGSCITR Index_250,-0.316720482,0.316720482,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,2,新兴市场股票,MSCI新兴市场指数
+MXEF Index,SPGINRTR Index_0,-0.296108411,0.296108411,SPGINRTR Index,0,jf_data.index_ohlcv_pe,1,10,新兴市场股票,MSCI新兴市场指数
+MXEF Index,FTCANN Index_0,-0.287005653,0.287005653,FTCANN Index,0,jf_data.index_ohlcv_pe,1,17,新兴市场股票,MSCI新兴市场指数
+MXEF Index,DSM Index_0,-0.30542642,0.30542642,DSM Index,0,jf_data.index_ohlcv_pe,1,8,新兴市场股票,MSCI新兴市场指数
+MXEF Index,DSM Index_250,-0.302335524,0.302335524,DSM Index,250,jf_data.index_ohlcv_pe,2,9,新兴市场股票,MSCI新兴市场指数
+EMUSTRUU Index,CPIIINDX Index_90,-0.319138504,0.319138504,CPIIINDX Index,90,jf_data.eco_nav,2,14,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,CPIIINDX Index_120,-0.373274525,0.373274525,CPIIINDX Index,120,jf_data.eco_nav,1,6,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,EMCFPROX Index_0,-0.324023926,0.324023926,EMCFPROX Index,0,jf_data.eco_nav,1,11,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,FARBAST Index_5,-0.303218305,0.303218305,FARBAST Index,5,jf_data.eco_nav,1,20,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,INRPYLD Index_0,-0.306587807,0.306587807,INRPYLD Index,0,jf_data.eco_nav,1,18,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,FARBRBFB Index_10,-0.368663129,0.368663129,FARBRBFB Index,10,jf_data.eco_nav,1,7,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,WMMFAMAC Index_5,-0.319569938,0.319569938,WMMFAMAC Index,5,jf_data.eco_nav,2,13,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,WMMFAMAC Index_10,-0.35117396,0.35117396,WMMFAMAC Index,10,jf_data.eco_nav,1,8,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,DOETCRUD Index_20,0.435898259,0.435898259,DOETCRUD Index,20,jf_data.eco_nav,2,2,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,DOETCRUD Index_44,0.514439599,0.514439599,DOETCRUD Index,44,jf_data.eco_nav,1,1,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,DOIDCRUD Index_44,0.383447264,0.383447264,DOIDCRUD Index,44,jf_data.eco_nav,1,5,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,ARDITRBM Index_10,-0.430801307,0.430801307,ARDITRBM Index,10,jf_data.eco_nav,1,3,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,PHC2II Index_250,0.305637891,0.305637891,PHC2II Index,250,jf_data.eco_nav,1,19,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,CPMINMAN Index_44,0.348646442,0.348646442,CPMINMAN Index,44,jf_data.eco_nav,1,9,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,KORP7DR Index_250,-0.312073155,0.312073155,KORP7DR Index,250,jf_data.eco_nav,1,16,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,UKAPTARG Index_0,-0.306694417,0.306694417,UKAPTARG Index,0,jf_data.eco_nav,1,17,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,ECO1GFKC Index_20,0.328024122,0.328024122,ECO1GFKC Index,20,jf_data.eco_nav,1,10,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,ECO1GFKC Index_44,0.32189087,0.32189087,ECO1GFKC Index,44,jf_data.eco_nav,2,12,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,INRPYLDP Index_0,-0.317114023,0.317114023,INRPYLDP Index,0,jf_data.eco_nav,1,15,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,NYFANG Index_120,-0.34360068,0.34360068,NYFANG Index,120,jf_data.index_ohlcv_pe,2,10,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,NYFANG Index_250,-0.382215711,0.382215711,NYFANG Index,250,jf_data.index_ohlcv_pe,1,2,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,JPNK400 Index_0,-0.339265957,0.339265957,JPNK400 Index,0,jf_data.index_ohlcv_pe,1,14,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,MXWDU Index_0,-0.330299849,0.330299849,MXWDU Index,0,jf_data.index_ohlcv_pe,1,17,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,KOSDQ150 Index_250,-0.340871463,0.340871463,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,13,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,VN30 Index_0,-0.342695291,0.342695291,VN30 Index,0,jf_data.index_ohlcv_pe,1,11,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,MLEIVTXA Index_120,0.331526763,0.331526763,MLEIVTXA Index,120,jf_data.index_ohlcv_pe,2,16,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,MLEIVTXA Index_250,0.34205906,0.34205906,MLEIVTXA Index,250,jf_data.index_ohlcv_pe,1,12,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,QNET Index_250,-0.382078028,0.382078028,QNET Index,250,jf_data.index_ohlcv_pe,1,3,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,LUACTRUU Index_10,0.322292474,0.322292474,LUACTRUU Index,10,jf_data.index_ohlcv_pe,1,19,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,IBOXIG Index_10,0.357505794,0.357505794,IBOXIG Index,10,jf_data.index_ohlcv_pe,1,6,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,LD06TRUU Index_10,0.355991919,0.355991919,LD06TRUU Index,10,jf_data.index_ohlcv_pe,1,7,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,I17660US Index_10,0.327536435,0.327536435,I17660US Index,10,jf_data.index_ohlcv_pe,1,18,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,LGCPTRUH Index_10,0.360247587,0.360247587,LGCPTRUH Index,10,jf_data.index_ohlcv_pe,1,5,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,BFU5TRUU Index_10,0.376175573,0.376175573,BFU5TRUU Index,10,jf_data.index_ohlcv_pe,1,4,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,EURPLN Curncy_250,0.335067213,0.335067213,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,15,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,PLN Curncy_250,0.321745634,0.321745634,PLN Curncy,250,jf_data.index_ohlcv_pe,1,20,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,FLQ1IN Index_250,-0.394405913,0.394405913,FLQ1IN Index,250,jf_data.index_ohlcv_pe,1,1,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,GSUSFCI Index_0,0.350385912,0.350385912,GSUSFCI Index,0,jf_data.index_ohlcv_pe,1,8,新兴市场债券,彭博巴克莱新兴市场债券指数
+EMUSTRUU Index,HFRXGL Index_0,-0.350032269,0.350032269,HFRXGL Index,0,jf_data.index_ohlcv_pe,1,9,新兴市场债券,彭博巴克莱新兴市场债券指数
+MXMS Index,CHUF Index_44,-0.366847737,0.366847737,CHUF Index,44,jf_data.eco_nav,1,3,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CHUF Index_90,-0.332706969,0.332706969,CHUF Index,90,jf_data.eco_nav,2,8,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CPIIINDX Index_90,-0.351056521,0.351056521,CPIIINDX Index,90,jf_data.eco_nav,2,6,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CPIIINDX Index_120,-0.409361209,0.409361209,CPIIINDX Index,120,jf_data.eco_nav,1,1,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,MAOPRATE Index_44,-0.292235447,0.292235447,MAOPRATE Index,44,jf_data.eco_nav,2,18,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,MAOPRATE Index_90,-0.311252815,0.311252815,MAOPRATE Index,90,jf_data.eco_nav,1,12,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,KLIB3M Index_44,-0.315617268,0.315617268,KLIB3M Index,44,jf_data.eco_nav,1,11,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,KLIB3M Index_120,-0.294359163,0.294359163,KLIB3M Index,120,jf_data.eco_nav,2,14,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,KLIB1M Index_44,-0.29360721,0.29360721,KLIB1M Index,44,jf_data.eco_nav,1,16,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,DOETCRUD Index_44,0.322329499,0.322329499,DOETCRUD Index,44,jf_data.eco_nav,2,9,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,DOETCRUD Index_120,0.358705059,0.358705059,DOETCRUD Index,120,jf_data.eco_nav,1,4,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,ARDITRBM Index_10,-0.294048932,0.294048932,ARDITRBM Index,10,jf_data.eco_nav,1,15,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CPMINMAN Index_44,0.399252761,0.399252761,CPMINMAN Index,44,jf_data.eco_nav,1,2,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CONSPXMD Index_0,-0.30142483,0.30142483,CONSPXMD Index,0,jf_data.eco_nav,2,13,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CONSPXMD Index_250,-0.342450187,0.342450187,CONSPXMD Index,250,jf_data.eco_nav,1,7,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,EMPRPAID Index_0,-0.315993385,0.315993385,EMPRPAID Index,0,jf_data.eco_nav,1,10,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,ECO1GFKC Index_44,0.287204335,0.287204335,ECO1GFKC Index,44,jf_data.eco_nav,1,20,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,OPCRTOTL Index_90,-0.293053813,0.293053813,OPCRTOTL Index,90,jf_data.eco_nav,2,17,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,OPCRTOTL Index_250,-0.352558232,0.352558232,OPCRTOTL Index,250,jf_data.eco_nav,1,5,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,MXEF Index_0,-0.285313675,0.285313675,MXEF Index,0,jf_data.index_ohlcv_pe,1,17,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,MXWO0EN Index_0,-0.303110029,0.303110029,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,8,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,KOSDQ150 Index_250,-0.308090174,0.308090174,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,6,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,XOI Index_0,-0.296541252,0.296541252,XOI Index,0,jf_data.index_ohlcv_pe,1,11,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,SHPROP Index_90,0.29084185,0.29084185,SHPROP Index,90,jf_data.index_ohlcv_pe,2,13,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,SHPROP Index_120,0.316506071,0.316506071,SHPROP Index,120,jf_data.index_ohlcv_pe,1,5,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,EURPLN Curncy_0,0.308038471,0.308038471,EURPLN Curncy,0,jf_data.index_ohlcv_pe,2,7,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,EURPLN Curncy_250,0.317201754,0.317201754,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,4,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,EURCZK Curncy_250,0.290018655,0.290018655,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,14,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,ILS Curncy_250,0.284339021,0.284339021,ILS Curncy,250,jf_data.index_ohlcv_pe,1,19,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,PLN Curncy_250,0.317757083,0.317757083,PLN Curncy,250,jf_data.index_ohlcv_pe,1,3,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,HO1 Comdty_250,-0.291592748,0.291592748,HO1 Comdty,250,jf_data.index_ohlcv_pe,1,12,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,QS1 Comdty_250,-0.300917902,0.300917902,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,9,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,FN1 Comdty_0,-0.287126403,0.287126403,FN1 Comdty,0,jf_data.index_ohlcv_pe,1,15,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,SPGSCITR Index_250,-0.325128704,0.325128704,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,1,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,SPGINRTR Index_0,-0.284067562,0.284067562,SPGINRTR Index,0,jf_data.index_ohlcv_pe,1,20,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,MSEUEGF Index_0,-0.28529501,0.28529501,MSEUEGF Index,0,jf_data.index_ohlcv_pe,1,18,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,CRY Index_250,-0.286165409,0.286165409,CRY Index,250,jf_data.index_ohlcv_pe,1,16,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,DSM Index_0,-0.299073184,0.299073184,DSM Index,0,jf_data.index_ohlcv_pe,2,10,新兴亚洲股票,MSCI新兴市场亚洲指数
+MXMS Index,DSM Index_250,-0.31811301,0.31811301,DSM Index,250,jf_data.index_ohlcv_pe,1,2,新兴亚洲股票,MSCI新兴市场亚洲指数
+LAPCTRUU Index,FDTRFTRL Index_90,0.225956533,0.225956533,FDTRFTRL Index,90,jf_data.eco_nav,2,13,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,FDTRFTRL Index_120,0.229291494,0.229291494,FDTRFTRL Index,120,jf_data.eco_nav,1,12,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,IRRBIOER Index_44,0.262373382,0.262373382,IRRBIOER Index,44,jf_data.eco_nav,1,4,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,FARBAST Index_44,0.253530988,0.253530988,FARBAST Index,44,jf_data.eco_nav,1,7,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,CERBTTAL Index_44,0.253666123,0.253666123,CERBTTAL Index,44,jf_data.eco_nav,1,6,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,FARWTSRF Index_44,0.252794646,0.252794646,FARWTSRF Index,44,jf_data.eco_nav,1,8,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,AUANCCW Index_120,-0.240262779,0.240262779,AUANCCW Index,120,jf_data.eco_nav,1,11,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,MB30ER Index_0,0.264554272,0.264554272,MB30ER Index,0,jf_data.eco_nav,1,3,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,DOETCRUD Index_90,-0.334613517,0.334613517,DOETCRUD Index,90,jf_data.eco_nav,1,1,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,POREANN Index_44,0.222096448,0.222096448,POREANN Index,44,jf_data.eco_nav,1,15,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,PHC2II Index_250,0.287182181,0.287182181,PHC2II Index,250,jf_data.eco_nav,1,2,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,BSPGCPUS Index_20,0.24429959,0.24429959,BSPGCPUS Index,20,jf_data.eco_nav,1,10,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,EMPRPAID Index_250,-0.261854127,0.261854127,EMPRPAID Index,250,jf_data.eco_nav,1,5,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,URPIPRCQ Index_44,-0.249048297,0.249048297,URPIPRCQ Index,44,jf_data.eco_nav,1,9,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,IBOXHY Index_44,-0.230195024,0.230195024,IBOXHY Index,44,jf_data.index_ohlcv_pe,1,6,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,EMLCTRUU Index_0,-0.236323967,0.236323967,EMLCTRUU Index,0,jf_data.index_ohlcv_pe,1,4,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,EMBIV Index_0,-0.270070007,0.270070007,EMBIV Index,0,jf_data.index_ohlcv_pe,1,1,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,BCBATRUU Index_44,-0.231081289,0.231081289,BCBATRUU Index,44,jf_data.index_ohlcv_pe,1,5,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,XW1 Comdty_44,-0.246989155,0.246989155,XW1 Comdty,44,jf_data.index_ohlcv_pe,2,3,新兴亚洲债券,彭博巴克莱亚太总收益指数
+LAPCTRUU Index,XW1 Comdty_90,-0.261568021,0.261568021,XW1 Comdty,90,jf_data.index_ohlcv_pe,1,2,新兴亚洲债券,彭博巴克莱亚太总收益指数
+MSEUEGFL Index,CHUF Index_44,-0.300197586,0.300197586,CHUF Index,44,jf_data.eco_nav,1,5,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CHUF Index_90,-0.26549515,0.26549515,CHUF Index,90,jf_data.eco_nav,2,13,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CPIIINDX Index_90,-0.290042465,0.290042465,CPIIINDX Index,90,jf_data.eco_nav,2,8,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CPIIINDX Index_120,-0.334365977,0.334365977,CPIIINDX Index,120,jf_data.eco_nav,1,1,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,FXCTEM8 Index_0,-0.271047651,0.271047651,FXCTEM8 Index,0,jf_data.eco_nav,1,10,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,3AGSREG Index_0,-0.295079252,0.295079252,3AGSREG Index,0,jf_data.eco_nav,1,6,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,INRPYLD Index_0,-0.264673393,0.264673393,INRPYLD Index,0,jf_data.eco_nav,1,14,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,DOETCRUD Index_44,0.266456228,0.266456228,DOETCRUD Index,44,jf_data.eco_nav,1,12,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,DOETCRUD Index_120,0.24604559,0.24604559,DOETCRUD Index,120,jf_data.eco_nav,2,20,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,ARDITRBM Index_10,-0.294079973,0.294079973,ARDITRBM Index,10,jf_data.eco_nav,1,7,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CEFWOPCT Index_90,0.246896023,0.246896023,CEFWOPCT Index,90,jf_data.eco_nav,2,19,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CEFWOPCT Index_120,0.247776574,0.247776574,CEFWOPCT Index,120,jf_data.eco_nav,1,18,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,PHC2II Index_120,0.330620904,0.330620904,PHC2II Index,120,jf_data.eco_nav,1,2,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CPMINMAN Index_44,0.300549217,0.300549217,CPMINMAN Index,44,jf_data.eco_nav,1,4,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CONSP5MD Index_250,-0.249768789,0.249768789,CONSP5MD Index,250,jf_data.eco_nav,1,17,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CONSPXMD Index_0,-0.268131851,0.268131851,CONSPXMD Index,0,jf_data.eco_nav,2,11,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,CONSPXMD Index_250,-0.313211202,0.313211202,CONSPXMD Index,250,jf_data.eco_nav,1,3,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,EMPRPAID Index_0,-0.264190726,0.264190726,EMPRPAID Index,0,jf_data.eco_nav,1,15,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,OPCRTOTL Index_250,-0.257241457,0.257241457,OPCRTOTL Index,250,jf_data.eco_nav,1,16,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,INRPYLDP Index_0,-0.278630353,0.278630353,INRPYLDP Index,0,jf_data.eco_nav,1,9,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,S5ENRS Index_0,-0.287002924,0.287002924,S5ENRS Index,0,jf_data.index_ohlcv_pe,1,5,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,MXWO0EN Index_0,-0.284514578,0.284514578,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,6,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,JPNK400 Index_250,-0.262347697,0.262347697,JPNK400 Index,250,jf_data.index_ohlcv_pe,1,20,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,MXMX Index_0,-0.272895164,0.272895164,MXMX Index,0,jf_data.index_ohlcv_pe,1,13,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,IXE Index_0,-0.290092638,0.290092638,IXE Index,0,jf_data.index_ohlcv_pe,1,2,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,S5OILP Index_0,-0.293005687,0.293005687,S5OILP Index,0,jf_data.index_ohlcv_pe,1,1,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,SPSIOP Index_0,-0.273148207,0.273148207,SPSIOP Index,0,jf_data.index_ohlcv_pe,1,12,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,XOI Index_0,-0.281956689,0.281956689,XOI Index,0,jf_data.index_ohlcv_pe,1,8,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,TPRETL Index_44,-0.262361155,0.262361155,TPRETL Index,44,jf_data.index_ohlcv_pe,2,19,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,TPRETL Index_120,-0.276810906,0.276810906,TPRETL Index,120,jf_data.index_ohlcv_pe,1,10,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,SHPROP Index_120,0.265706217,0.265706217,SHPROP Index,120,jf_data.index_ohlcv_pe,1,18,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,EURPLN Curncy_250,0.289827066,0.289827066,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,4,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,TWD Curncy_0,0.270903088,0.270903088,TWD Curncy,0,jf_data.index_ohlcv_pe,1,14.5,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,USDTWD Curncy_0,0.270903088,0.270903088,USDTWD Curncy,0,jf_data.index_ohlcv_pe,1,14.5,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,HO1 Comdty_0,-0.27425857,0.27425857,HO1 Comdty,0,jf_data.index_ohlcv_pe,1,11,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,QS1 Comdty_0,-0.267023564,0.267023564,QS1 Comdty,0,jf_data.index_ohlcv_pe,1,17,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,FN1 Comdty_0,-0.276816344,0.276816344,FN1 Comdty,0,jf_data.index_ohlcv_pe,1,9,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,SPGINRTR Index_0,-0.290089711,0.290089711,SPGINRTR Index,0,jf_data.index_ohlcv_pe,1,3,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,FTCANN Index_0,-0.269435051,0.269435051,FTCANN Index,0,jf_data.index_ohlcv_pe,1,16,新兴拉美股票,MSCI拉丁美洲指数
+MSEUEGFL Index,DSM Index_0,-0.282557219,0.282557219,DSM Index,0,jf_data.index_ohlcv_pe,1,7,新兴拉美股票,MSCI拉丁美洲指数
+MXEE Index,CHUF Index_44,-0.372698311,0.372698311,CHUF Index,44,jf_data.eco_nav,1,3,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,CHUF Index_90,-0.335181085,0.335181085,CHUF Index,90,jf_data.eco_nav,2,6,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,CPIIINDX Index_90,-0.356772906,0.356772906,CPIIINDX Index,90,jf_data.eco_nav,2,4,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,CPIIINDX Index_120,-0.407278415,0.407278415,CPIIINDX Index,120,jf_data.eco_nav,1,2,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,KLIB3M Index_44,-0.28632485,0.28632485,KLIB3M Index,44,jf_data.eco_nav,1,15,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,TAREDSC Index_0,-0.284265761,0.284265761,TAREDSC Index,0,jf_data.eco_nav,1,16,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,INRPYLD Index_0,-0.288782457,0.288782457,INRPYLD Index,0,jf_data.eco_nav,1,14,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,DOETCRUD Index_44,0.303778934,0.303778934,DOETCRUD Index,44,jf_data.eco_nav,2,12,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,DOETCRUD Index_120,0.344211458,0.344211458,DOETCRUD Index,120,jf_data.eco_nav,1,5,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,ARDITRBM Index_10,-0.318441923,0.318441923,ARDITRBM Index,10,jf_data.eco_nav,1,8,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,PHC2II Index_120,0.278609532,0.278609532,PHC2II Index,120,jf_data.eco_nav,1,19,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,USRINDEX Index_250,-0.283199049,0.283199049,USRINDEX Index,250,jf_data.eco_nav,1,17,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,CPMINMAN Index_44,0.414565657,0.414565657,CPMINMAN Index,44,jf_data.eco_nav,1,1,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,CONSPXMD Index_250,-0.322481494,0.322481494,CONSPXMD Index,250,jf_data.eco_nav,1,7,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,EMPRPAID Index_0,-0.31203985,0.31203985,EMPRPAID Index,0,jf_data.eco_nav,1,9,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,ECO1GFKC Index_90,0.281530082,0.281530082,ECO1GFKC Index,90,jf_data.eco_nav,1,18,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,OPCRTOTL Index_250,-0.303953409,0.303953409,OPCRTOTL Index,250,jf_data.eco_nav,1,11,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,INRPYLDP Index_0,-0.306049641,0.306049641,INRPYLDP Index,0,jf_data.eco_nav,1,10,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,NYFANG Index_20,-0.309609473,0.309609473,NYFANG Index,20,jf_data.index_ohlcv_pe,2,4,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,NYFANG Index_44,-0.383264655,0.383264655,NYFANG Index,44,jf_data.index_ohlcv_pe,1,1,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,S5ENRS Index_0,-0.286305465,0.286305465,S5ENRS Index,0,jf_data.index_ohlcv_pe,1,11,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,MXWO0EN Index_0,-0.292947538,0.292947538,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,9,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,JPNK400 Index_20,-0.309294022,0.309294022,JPNK400 Index,20,jf_data.index_ohlcv_pe,1,5,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,IXE Index_0,-0.285861589,0.285861589,IXE Index,0,jf_data.index_ohlcv_pe,1,12,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,S5OILP Index_0,-0.267749791,0.267749791,S5OILP Index,0,jf_data.index_ohlcv_pe,1,18,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,XOI Index_0,-0.298799632,0.298799632,XOI Index,0,jf_data.index_ohlcv_pe,1,7,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,SHPROP Index_120,0.268817227,0.268817227,SHPROP Index,120,jf_data.index_ohlcv_pe,1,17,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,TPXNTR Index_20,-0.3171734,0.3171734,TPXNTR Index,20,jf_data.index_ohlcv_pe,1,3,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,EURPLN Curncy_0,0.30731288,0.30731288,EURPLN Curncy,0,jf_data.index_ohlcv_pe,2,6,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,EURPLN Curncy_250,0.323330121,0.323330121,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,2,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,EURCZK Curncy_250,0.265519739,0.265519739,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,19,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,EURHUF Curncy_250,0.274049298,0.274049298,EURHUF Curncy,250,jf_data.index_ohlcv_pe,1,16,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,ILS Curncy_250,0.281374725,0.281374725,ILS Curncy,250,jf_data.index_ohlcv_pe,1,15,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,PLN Curncy_250,0.29717769,0.29717769,PLN Curncy,250,jf_data.index_ohlcv_pe,1,8,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,SPGSCITR Index_250,-0.281723262,0.281723262,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,14,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,SPGINRTR Index_0,-0.282037982,0.282037982,SPGINRTR Index,0,jf_data.index_ohlcv_pe,1,13,欧非中东股票,MSCI 新兴市场欧非中东指数
+MXEE Index,DSM Index_0,-0.2909035,0.2909035,DSM Index,0,jf_data.index_ohlcv_pe,1,10,欧非中东股票,MSCI 新兴市场欧非中东指数
+LEGATRUU Index,IRRBIOER Index_44,0.22895396,0.22895396,IRRBIOER Index,44,jf_data.eco_nav,1,8,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,DOETCRUD Index_44,0.255922453,0.255922453,DOETCRUD Index,44,jf_data.eco_nav,1,3,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,DOIDCRUD Index_44,0.255984451,0.255984451,DOIDCRUD Index,44,jf_data.eco_nav,1,2,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,PHC2II Index_250,0.386822575,0.386822575,PHC2II Index,250,jf_data.eco_nav,1,1,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,GRZECURR Index_20,0.252568664,0.252568664,GRZECURR Index,20,jf_data.eco_nav,1,4,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,BSPGCPUS Index_20,0.229278925,0.229278925,BSPGCPUS Index,20,jf_data.eco_nav,1,7,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,EMPRPAID Index_250,-0.244732607,0.244732607,EMPRPAID Index,250,jf_data.eco_nav,1,5,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,BRCPALLY Index_250,-0.225905934,0.225905934,BRCPALLY Index,250,jf_data.eco_nav,1,9,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,NAPMINV Index_0,-0.234303966,0.234303966,NAPMINV Index,0,jf_data.eco_nav,1,6,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,URPIPRCQ Index_44,-0.22344338,0.22344338,URPIPRCQ Index,44,jf_data.eco_nav,1,10,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,SZ399006 Index_20,-0.220014617,0.220014617,SZ399006 Index,20,jf_data.index_ohlcv_pe,1,5,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,XW1 Comdty_20,-0.271022473,0.271022473,XW1 Comdty,20,jf_data.index_ohlcv_pe,2,2,全球债券,彭博巴克莱全球总收益指数
+LEGATRUU Index,XW1 Comdty_90,-0.300999693,0.300999693,XW1 Comdty,90,jf_data.index_ohlcv_pe,1,1,全球债券,彭博巴克莱全球总收益指数
+BWORLD Index,CHUF Index_44,-0.379758889,0.379758889,CHUF Index,44,jf_data.eco_nav,1,3,全球股票,彭博全球指数
+BWORLD Index,CHUF Index_90,-0.373367189,0.373367189,CHUF Index,90,jf_data.eco_nav,2,4,全球股票,彭博全球指数
+BWORLD Index,CPIIINDX Index_90,-0.341355116,0.341355116,CPIIINDX Index,90,jf_data.eco_nav,2,6,全球股票,彭博全球指数
+BWORLD Index,CPIIINDX Index_120,-0.405123099,0.405123099,CPIIINDX Index,120,jf_data.eco_nav,1,1,全球股票,彭博全球指数
+BWORLD Index,TAREDSC Index_0,-0.284871567,0.284871567,TAREDSC Index,0,jf_data.eco_nav,1,20,全球股票,彭博全球指数
+BWORLD Index,DOETCRUD Index_44,0.335933591,0.335933591,DOETCRUD Index,44,jf_data.eco_nav,2,7,全球股票,彭博全球指数
+BWORLD Index,DOETCRUD Index_120,0.395470762,0.395470762,DOETCRUD Index,120,jf_data.eco_nav,1,2,全球股票,彭博全球指数
+BWORLD Index,ARDITRBM Index_10,-0.317342468,0.317342468,ARDITRBM Index,10,jf_data.eco_nav,1,9,全球股票,彭博全球指数
+BWORLD Index,CPMINMAN Index_44,0.364565665,0.364565665,CPMINMAN Index,44,jf_data.eco_nav,1,5,全球股票,彭博全球指数
+BWORLD Index,CONSPXMD Index_250,-0.313671597,0.313671597,CONSPXMD Index,250,jf_data.eco_nav,1,10,全球股票,彭博全球指数
+BWORLD Index,JCOMSHCF Index_120,0.285895413,0.285895413,JCOMSHCF Index,120,jf_data.eco_nav,1,19,全球股票,彭博全球指数
+BWORLD Index,EMPRPAID Index_0,-0.291767672,0.291767672,EMPRPAID Index,0,jf_data.eco_nav,1,16,全球股票,彭博全球指数
+BWORLD Index,ECO1GFKC Index_44,0.289488708,0.289488708,ECO1GFKC Index,44,jf_data.eco_nav,2,17,全球股票,彭博全球指数
+BWORLD Index,ECO1GFKC Index_120,0.293599945,0.293599945,ECO1GFKC Index,120,jf_data.eco_nav,1,15,全球股票,彭博全球指数
+BWORLD Index,OPCRTOTL Index_250,-0.334164895,0.334164895,OPCRTOTL Index,250,jf_data.eco_nav,1,8,全球股票,彭博全球指数
+BWORLD Index,JNTSMFG Index_90,0.294327904,0.294327904,JNTSMFG Index,90,jf_data.eco_nav,1,13,全球股票,彭博全球指数
+BWORLD Index,EHPIEMG Index_90,-0.296010766,0.296010766,EHPIEMG Index,90,jf_data.eco_nav,1,12,全球股票,彭博全球指数
+BWORLD Index,MXWO0EN Index_0,-0.275923265,0.275923265,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,8,全球股票,彭博全球指数
+BWORLD Index,JPNK400 Index_0,-0.252311495,0.252311495,JPNK400 Index,0,jf_data.index_ohlcv_pe,1,18,全球股票,彭博全球指数
+BWORLD Index,KRX Index_44,-0.252627906,0.252627906,KRX Index,44,jf_data.index_ohlcv_pe,1,17,全球股票,彭博全球指数
+BWORLD Index,KOSDQ150 Index_250,-0.264831459,0.264831459,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,13,全球股票,彭博全球指数
+BWORLD Index,PMOMENUS Index_90,-0.253769055,0.253769055,PMOMENUS Index,90,jf_data.index_ohlcv_pe,1,16,全球股票,彭博全球指数
+BWORLD Index,XOI Index_0,-0.265726519,0.265726519,XOI Index,0,jf_data.index_ohlcv_pe,1,10,全球股票,彭博全球指数
+BWORLD Index,SHPROP Index_90,0.262972432,0.262972432,SHPROP Index,90,jf_data.index_ohlcv_pe,2,14,全球股票,彭博全球指数
+BWORLD Index,SHPROP Index_120,0.297701303,0.297701303,SHPROP Index,120,jf_data.index_ohlcv_pe,1,3,全球股票,彭博全球指数
+BWORLD Index,LGCPTRUH Index_10,0.24378168,0.24378168,LGCPTRUH Index,10,jf_data.index_ohlcv_pe,1,20,全球股票,彭博全球指数
+BWORLD Index,EURPLN Curncy_0,0.315291372,0.315291372,EURPLN Curncy,0,jf_data.index_ohlcv_pe,1,1,全球股票,彭博全球指数
+BWORLD Index,EURPLN Curncy_250,0.301355533,0.301355533,EURPLN Curncy,250,jf_data.index_ohlcv_pe,2,2,全球股票,彭博全球指数
+BWORLD Index,EURCZK Curncy_250,0.276344166,0.276344166,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,7,全球股票,彭博全球指数
+BWORLD Index,EURHUF Curncy_250,0.264926763,0.264926763,EURHUF Curncy,250,jf_data.index_ohlcv_pe,1,12,全球股票,彭博全球指数
+BWORLD Index,ILS Curncy_250,0.285308729,0.285308729,ILS Curncy,250,jf_data.index_ohlcv_pe,1,5,全球股票,彭博全球指数
+BWORLD Index,PLN Curncy_250,0.296430151,0.296430151,PLN Curncy,250,jf_data.index_ohlcv_pe,1,4,全球股票,彭博全球指数
+BWORLD Index,HO1 Comdty_250,-0.265018611,0.265018611,HO1 Comdty,250,jf_data.index_ohlcv_pe,1,11,全球股票,彭博全球指数
+BWORLD Index,QS1 Comdty_250,-0.272305071,0.272305071,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,9,全球股票,彭博全球指数
+BWORLD Index,SPGSCITR Index_250,-0.283506817,0.283506817,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,6,全球股票,彭博全球指数
+BWORLD Index,CRY Index_250,-0.246577776,0.246577776,CRY Index,250,jf_data.index_ohlcv_pe,1,19,全球股票,彭博全球指数
+BWORLD Index,DSM Index_250,-0.261353401,0.261353401,DSM Index,250,jf_data.index_ohlcv_pe,1,15,全球股票,彭博全球指数
+USGG3YR Index,FDTRFTRL Index_20,-0.332125849,0.332125849,FDTRFTRL Index,20,jf_data.eco_nav,1,1,全球另类策略,3年期美债收益率
+USGG3YR Index,FDTRFTRL Index_120,-0.268163889,0.268163889,FDTRFTRL Index,120,jf_data.eco_nav,2,2,全球另类策略,3年期美债收益率
+USGG3YR Index,CANMORT5 Index_120,-0.245749858,0.245749858,CANMORT5 Index,120,jf_data.eco_nav,1,5,全球另类策略,3年期美债收益率
+USGG3YR Index,POREANN Index_90,-0.243613218,0.243613218,POREANN Index,90,jf_data.eco_nav,1,6,全球另类策略,3年期美债收益率
+USGG3YR Index,USRINDEX Index_10,0.24059817,0.24059817,USRINDEX Index,10,jf_data.eco_nav,1,7,全球另类策略,3年期美债收益率
+USGG3YR Index,USRINDEX Index_20,0.223625239,0.223625239,USRINDEX Index,20,jf_data.eco_nav,2,8,全球另类策略,3年期美债收益率
+USGG3YR Index,BRCPALLY Index_250,0.254398269,0.254398269,BRCPALLY Index,250,jf_data.eco_nav,1,3,全球另类策略,3年期美债收益率
+USGG3YR Index,NYFANG Index_120,0.230337601,0.230337601,NYFANG Index,120,jf_data.index_ohlcv_pe,1,4,全球另类策略,3年期美债收益率
+USGG3YR Index,TPELEC Index_120,0.224555442,0.224555442,TPELEC Index,120,jf_data.index_ohlcv_pe,1,5,全球另类策略,3年期美债收益率
+USGG3YR Index,CT1 Comdty_20,0.245248874,0.245248874,CT1 Comdty,20,jf_data.index_ohlcv_pe,1,3,全球另类策略,3年期美债收益率
+USGG3YR Index,CT1 Comdty_44,0.224496803,0.224496803,CT1 Comdty,44,jf_data.index_ohlcv_pe,2,6,全球另类策略,3年期美债收益率
+USGG3YR Index,BCNCOAS Index_0,-0.267960361,0.267960361,BCNCOAS Index,0,jf_data.index_ohlcv_pe,1,1,全球另类策略,3年期美债收益率
+USGG3YR Index,FLQ1IN Index_250,0.258521834,0.258521834,FLQ1IN Index,250,jf_data.index_ohlcv_pe,1,2,全球另类策略,3年期美债收益率
+MXWO0RE Index,CHUF Index_44,-0.366582524,0.366582524,CHUF Index,44,jf_data.eco_nav,2,6,房地产,MSCI全球房地产指数
+MXWO0RE Index,CHUF Index_90,-0.371864771,0.371864771,CHUF Index,90,jf_data.eco_nav,1,5,房地产,MSCI全球房地产指数
+MXWO0RE Index,CPIIINDX Index_90,-0.30939397,0.30939397,CPIIINDX Index,90,jf_data.eco_nav,2,9,房地产,MSCI全球房地产指数
+MXWO0RE Index,CPIIINDX Index_120,-0.404602734,0.404602734,CPIIINDX Index,120,jf_data.eco_nav,1,2,房地产,MSCI全球房地产指数
+MXWO0RE Index,TAREDSC Index_0,-0.28592814,0.28592814,TAREDSC Index,0,jf_data.eco_nav,1,15,房地产,MSCI全球房地产指数
+MXWO0RE Index,FED5YEAR Index_20,-0.274511541,0.274511541,FED5YEAR Index,20,jf_data.eco_nav,1,20,房地产,MSCI全球房地产指数
+MXWO0RE Index,DOETCRUD Index_44,0.379860349,0.379860349,DOETCRUD Index,44,jf_data.eco_nav,2,4,房地产,MSCI全球房地产指数
+MXWO0RE Index,DOETCRUD Index_120,0.457198109,0.457198109,DOETCRUD Index,120,jf_data.eco_nav,1,1,房地产,MSCI全球房地产指数
+MXWO0RE Index,DOIDCRUD Index_120,0.280131935,0.280131935,DOIDCRUD Index,120,jf_data.eco_nav,1,16,房地产,MSCI全球房地产指数
+MXWO0RE Index,ARDITRBM Index_10,-0.331033812,0.331033812,ARDITRBM Index,10,jf_data.eco_nav,1,8,房地产,MSCI全球房地产指数
+MXWO0RE Index,CPMINMAN Index_44,0.40368203,0.40368203,CPMINMAN Index,44,jf_data.eco_nav,1,3,房地产,MSCI全球房地产指数
+MXWO0RE Index,CPMINMAN Index_120,0.302828352,0.302828352,CPMINMAN Index,120,jf_data.eco_nav,2,11,房地产,MSCI全球房地产指数
+MXWO0RE Index,KORP7DR Index_250,-0.279305035,0.279305035,KORP7DR Index,250,jf_data.eco_nav,1,17,房地产,MSCI全球房地产指数
+MXWO0RE Index,ECO1GFKC Index_90,0.302651488,0.302651488,ECO1GFKC Index,90,jf_data.eco_nav,2,12,房地产,MSCI全球房地产指数
+MXWO0RE Index,ECO1GFKC Index_120,0.331982237,0.331982237,ECO1GFKC Index,120,jf_data.eco_nav,1,7,房地产,MSCI全球房地产指数
+MXWO0RE Index,JNTSMFG Index_90,0.293579901,0.293579901,JNTSMFG Index,90,jf_data.eco_nav,1,14,房地产,MSCI全球房地产指数
+MXWO0RE Index,USRINDXQ Index_250,-0.275038514,0.275038514,USRINDXQ Index,250,jf_data.eco_nav,1,19,房地产,MSCI全球房地产指数
+MXWO0RE Index,NYFANG Index_44,-0.29548266,0.29548266,NYFANG Index,44,jf_data.index_ohlcv_pe,1,7,房地产,MSCI全球房地产指数
+MXWO0RE Index,NYFANG Index_250,-0.293399529,0.293399529,NYFANG Index,250,jf_data.index_ohlcv_pe,2,9,房地产,MSCI全球房地产指数
+MXWO0RE Index,JPNK400 Index_20,-0.285095982,0.285095982,JPNK400 Index,20,jf_data.index_ohlcv_pe,1,14,房地产,MSCI全球房地产指数
+MXWO0RE Index,JPNK400 Index_90,-0.275583942,0.275583942,JPNK400 Index,90,jf_data.index_ohlcv_pe,2,16,房地产,MSCI全球房地产指数
+MXWO0RE Index,SPGTIND Index_0,-0.266064048,0.266064048,SPGTIND Index,0,jf_data.index_ohlcv_pe,1,20,房地产,MSCI全球房地产指数
+MXWO0RE Index,TPXNTR Index_20,-0.295333269,0.295333269,TPXNTR Index,20,jf_data.index_ohlcv_pe,1,8,房地产,MSCI全球房地产指数
+MXWO0RE Index,TPXNTR Index_90,-0.284047704,0.284047704,TPXNTR Index,90,jf_data.index_ohlcv_pe,2,15,房地产,MSCI全球房地产指数
+MXWO0RE Index,RTYFAST Index_250,-0.268408604,0.268408604,RTYFAST Index,250,jf_data.index_ohlcv_pe,1,18,房地产,MSCI全球房地产指数
+MXWO0RE Index,MXWO0UT Index_0,-0.288631731,0.288631731,MXWO0UT Index,0,jf_data.index_ohlcv_pe,1,13,房地产,MSCI全球房地产指数
+MXWO0RE Index,IBXXC1D1 Index_120,-0.289240386,0.289240386,IBXXC1D1 Index,120,jf_data.index_ohlcv_pe,1,12,房地产,MSCI全球房地产指数
+MXWO0RE Index,IB8A Index_120,0.266436464,0.266436464,IB8A Index,120,jf_data.index_ohlcv_pe,1,19,房地产,MSCI全球房地产指数
+MXWO0RE Index,EURPLN Curncy_0,0.299144275,0.299144275,EURPLN Curncy,0,jf_data.index_ohlcv_pe,1,2,房地产,MSCI全球房地产指数
+MXWO0RE Index,EURPLN Curncy_250,0.297421221,0.297421221,EURPLN Curncy,250,jf_data.index_ohlcv_pe,2,5,房地产,MSCI全球房地产指数
+MXWO0RE Index,EURHUF Curncy_250,0.29771029,0.29771029,EURHUF Curncy,250,jf_data.index_ohlcv_pe,1,4,房地产,MSCI全球房地产指数
+MXWO0RE Index,ILS Curncy_250,0.298982481,0.298982481,ILS Curncy,250,jf_data.index_ohlcv_pe,1,3,房地产,MSCI全球房地产指数
+MXWO0RE Index,PLN Curncy_250,0.295687029,0.295687029,PLN Curncy,250,jf_data.index_ohlcv_pe,1,6,房地产,MSCI全球房地产指数
+MXWO0RE Index,FLQ1IN Index_120,-0.289286751,0.289286751,FLQ1IN Index,120,jf_data.index_ohlcv_pe,2,11,房地产,MSCI全球房地产指数
+MXWO0RE Index,FLQ1IN Index_250,-0.353620798,0.353620798,FLQ1IN Index,250,jf_data.index_ohlcv_pe,1,1,房地产,MSCI全球房地产指数
+SSE50 Index,EUORDEPO Index_250,-0.244791641,0.244791641,EUORDEPO Index,250,jf_data.eco_nav,1,20,A股大盘,上证50
+SSE50 Index,RREFKEYR Index_120,0.268304708,0.268304708,RREFKEYR Index,120,jf_data.eco_nav,1,10,A股大盘,上证50
+SSE50 Index,RREFKANN Index_120,0.282406435,0.282406435,RREFKANN Index,120,jf_data.eco_nav,1,7,A股大盘,上证50
+SSE50 Index,TOMOREPO Index_250,0.259761638,0.259761638,TOMOREPO Index,250,jf_data.eco_nav,1,12,A股大盘,上证50
+SSE50 Index,3AGSREG Index_250,-0.272110742,0.272110742,3AGSREG Index,250,jf_data.eco_nav,1,9,A股大盘,上证50
+SSE50 Index,COMFCOMF Index_90,0.25804178,0.25804178,COMFCOMF Index,90,jf_data.eco_nav,1,13,A股大盘,上证50
+SSE50 Index,COMFCOMF Index_120,0.254823198,0.254823198,COMFCOMF Index,120,jf_data.eco_nav,2,17,A股大盘,上证50
+SSE50 Index,CENLCCL Index_250,-0.283454441,0.283454441,CENLCCL Index,250,jf_data.eco_nav,1,6,A股大盘,上证50
+SSE50 Index,RUREFEG Index_0,-0.298556971,0.298556971,RUREFEG Index,0,jf_data.eco_nav,1,4,A股大盘,上证50
+SSE50 Index,CRVZVZBK Index_250,-0.255221875,0.255221875,CRVZVZBK Index,250,jf_data.eco_nav,1,15,A股大盘,上证50
+SSE50 Index,USRINDEX Index_120,-0.3140912,0.3140912,USRINDEX Index,120,jf_data.eco_nav,1,2,A股大盘,上证50
+SSE50 Index,USRINDEX Index_250,-0.299724585,0.299724585,USRINDEX Index,250,jf_data.eco_nav,2,3,A股大盘,上证50
+SSE50 Index,CONSPXMD Index_0,-0.244808401,0.244808401,CONSPXMD Index,0,jf_data.eco_nav,1,19,A股大盘,上证50
+SSE50 Index,CONSEXP Index_250,0.256091672,0.256091672,CONSEXP Index,250,jf_data.eco_nav,1,14,A股大盘,上证50
+SSE50 Index,SPCKCSMI Index_0,-0.250615444,0.250615444,SPCKCSMI Index,0,jf_data.eco_nav,1,18,A股大盘,上证50
+SSE50 Index,CPALEMU Index_120,-0.274463758,0.274463758,CPALEMU Index,120,jf_data.eco_nav,1,8,A股大盘,上证50
+SSE50 Index,THCPI Index_120,-0.259796514,0.259796514,THCPI Index,120,jf_data.eco_nav,1,11,A股大盘,上证50
+SSE50 Index,IDIFCRIY Index_90,-0.254840093,0.254840093,IDIFCRIY Index,90,jf_data.eco_nav,2,16,A股大盘,上证50
+SSE50 Index,IDIFCRIY Index_120,-0.292942511,0.292942511,IDIFCRIY Index,120,jf_data.eco_nav,1,5,A股大盘,上证50
+SSE50 Index,USRINDXQ Index_120,-0.329117176,0.329117176,USRINDXQ Index,120,jf_data.eco_nav,1,1,A股大盘,上证50
+SSE50 Index,SHSZ300 Index_90,0.263791507,0.263791507,SHSZ300 Index,90,jf_data.index_ohlcv_pe,1,18,A股大盘,上证50
+SSE50 Index,XIN9I Index_90,0.274157911,0.274157911,XIN9I Index,90,jf_data.index_ohlcv_pe,1,11,A股大盘,上证50
+SSE50 Index,SSE50 Index_90,0.26451923,0.26451923,SSE50 Index,90,jf_data.index_ohlcv_pe,1,17,A股大盘,上证50
+SSE50 Index,SHSN300 Index_90,0.2637915,0.2637915,SHSN300 Index,90,jf_data.index_ohlcv_pe,1,19,A股大盘,上证50
+SSE50 Index,JSAPY Index_120,0.267983421,0.267983421,JSAPY Index,120,jf_data.index_ohlcv_pe,1,15,A股大盘,上证50
+SSE50 Index,SHPROP Index_90,0.342969979,0.342969979,SHPROP Index,90,jf_data.index_ohlcv_pe,1,1,A股大盘,上证50
+SSE50 Index,SHPROP Index_120,0.314203081,0.314203081,SHPROP Index,120,jf_data.index_ohlcv_pe,2,4,A股大盘,上证50
+SSE50 Index,EURCZK Curncy_0,0.331874433,0.331874433,EURCZK Curncy,0,jf_data.index_ohlcv_pe,1,2,A股大盘,上证50
+SSE50 Index,EURCZK Curncy_250,0.261744374,0.261744374,EURCZK Curncy,250,jf_data.index_ohlcv_pe,2,20,A股大盘,上证50
+SSE50 Index,ILS Curncy_0,0.315836811,0.315836811,ILS Curncy,0,jf_data.index_ohlcv_pe,1,3,A股大盘,上证50
+SSE50 Index,CL1 Comdty_250,-0.28029779,0.28029779,CL1 Comdty,250,jf_data.index_ohlcv_pe,1,9,A股大盘,上证50
+SSE50 Index,CO1 Comdty_250,-0.276155718,0.276155718,CO1 Comdty,250,jf_data.index_ohlcv_pe,1,10,A股大盘,上证50
+SSE50 Index,XB1 Comdty_250,-0.273269431,0.273269431,XB1 Comdty,250,jf_data.index_ohlcv_pe,1,13,A股大盘,上证50
+SSE50 Index,HO1 Comdty_250,-0.292504805,0.292504805,HO1 Comdty,250,jf_data.index_ohlcv_pe,1,8,A股大盘,上证50
+SSE50 Index,QS1 Comdty_250,-0.302646413,0.302646413,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,6,A股大盘,上证50
+SSE50 Index,FN1 Comdty_250,-0.311245096,0.311245096,FN1 Comdty,250,jf_data.index_ohlcv_pe,1,5,A股大盘,上证50
+SSE50 Index,SPGSCITR Index_250,-0.296797231,0.296797231,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,7,A股大盘,上证50
+SSE50 Index,CRY Index_250,-0.264796337,0.264796337,CRY Index,250,jf_data.index_ohlcv_pe,1,16,A股大盘,上证50
+SSE50 Index,DSM Index_250,-0.273412845,0.273412845,DSM Index,250,jf_data.index_ohlcv_pe,1,12,A股大盘,上证50
+SH000905 Index,CPIIINDX Index_44,-0.26551099,0.26551099,CPIIINDX Index,44,jf_data.eco_nav,1,16,A股小盘,中证500
+SH000905 Index,FDTRFTRL Index_20,-0.255603154,0.255603154,FDTRFTRL Index,20,jf_data.eco_nav,1,20,A股小盘,中证500
+SH000905 Index,RREFKEYR Index_120,0.358458645,0.358458645,RREFKEYR Index,120,jf_data.eco_nav,1,3,A股小盘,中证500
+SH000905 Index,RREFKEYR Index_250,0.280428033,0.280428033,RREFKEYR Index,250,jf_data.eco_nav,2,11,A股小盘,中证500
+SH000905 Index,RREFKANN Index_120,0.362532554,0.362532554,RREFKANN Index,120,jf_data.eco_nav,1,2,A股小盘,中证500
+SH000905 Index,RREFKANN Index_250,0.274880492,0.274880492,RREFKANN Index,250,jf_data.eco_nav,2,12,A股小盘,中证500
+SH000905 Index,SZLTTR Index_120,-0.269387705,0.269387705,SZLTTR Index,120,jf_data.eco_nav,1,15,A股小盘,中证500
+SH000905 Index,3AGSREG Index_250,-0.271988153,0.271988153,3AGSREG Index,250,jf_data.eco_nav,1,13,A股小盘,中证500
+SH000905 Index,RUREFEG Index_0,-0.293259071,0.293259071,RUREFEG Index,0,jf_data.eco_nav,1,8,A股小盘,中证500
+SH000905 Index,NAPMPRIC Index_0,-0.28945148,0.28945148,NAPMPRIC Index,0,jf_data.eco_nav,1,9,A股小盘,中证500
+SH000905 Index,USRINDEX Index_120,-0.3257116,0.3257116,USRINDEX Index,120,jf_data.eco_nav,1,5,A股小盘,中证500
+SH000905 Index,USRINDEX Index_250,-0.270342933,0.270342933,USRINDEX Index,250,jf_data.eco_nav,2,14,A股小盘,中证500
+SH000905 Index,CONSP5MD Index_120,-0.258190264,0.258190264,CONSP5MD Index,120,jf_data.eco_nav,1,18,A股小盘,中证500
+SH000905 Index,CONSPXMD Index_120,-0.255636393,0.255636393,CONSPXMD Index,120,jf_data.eco_nav,1,19,A股小盘,中证500
+SH000905 Index,CPALEMU Index_120,-0.286775816,0.286775816,CPALEMU Index,120,jf_data.eco_nav,1,10,A股小盘,中证500
+SH000905 Index,THCPI Index_90,-0.301345892,0.301345892,THCPI Index,90,jf_data.eco_nav,2,7,A股小盘,中证500
+SH000905 Index,THCPI Index_120,-0.328057548,0.328057548,THCPI Index,120,jf_data.eco_nav,1,4,A股小盘,中证500
+SH000905 Index,IDIFCRIY Index_120,-0.260755857,0.260755857,IDIFCRIY Index,120,jf_data.eco_nav,1,17,A股小盘,中证500
+SH000905 Index,USRINDXQ Index_90,-0.31487949,0.31487949,USRINDXQ Index,90,jf_data.eco_nav,2,6,A股小盘,中证500
+SH000905 Index,USRINDXQ Index_120,-0.404034388,0.404034388,USRINDXQ Index,120,jf_data.eco_nav,1,1,A股小盘,中证500
+SH000905 Index,XIN9I Index_90,0.278719895,0.278719895,XIN9I Index,90,jf_data.index_ohlcv_pe,1,11,A股小盘,中证500
+SH000905 Index,SZCOMP Index_0,-0.268745667,0.268745667,SZCOMP Index,0,jf_data.index_ohlcv_pe,1,16,A股小盘,中证500
+SH000905 Index,SSE50 Index_90,0.273032357,0.273032357,SSE50 Index,90,jf_data.index_ohlcv_pe,1,13,A股小盘,中证500
+SH000905 Index,SXKE Index_90,0.271227224,0.271227224,SXKE Index,90,jf_data.index_ohlcv_pe,1,14,A股小盘,中证500
+SH000905 Index,SH000905 Index_0,-0.287835332,0.287835332,SH000905 Index,0,jf_data.index_ohlcv_pe,1,6,A股小盘,中证500
+SH000905 Index,JSAPY Index_90,0.319419773,0.319419773,JSAPY Index,90,jf_data.index_ohlcv_pe,1,1,A股小盘,中证500
+SH000905 Index,JSAPY Index_120,0.318631058,0.318631058,JSAPY Index,120,jf_data.index_ohlcv_pe,2,2,A股小盘,中证500
+SH000905 Index,SHPROP Index_120,0.258800932,0.258800932,SHPROP Index,120,jf_data.index_ohlcv_pe,1,20,A股小盘,中证500
+SH000905 Index,EURCZK Curncy_0,0.287612254,0.287612254,EURCZK Curncy,0,jf_data.index_ohlcv_pe,1,7,A股小盘,中证500
+SH000905 Index,ILS Curncy_0,0.294740704,0.294740704,ILS Curncy,0,jf_data.index_ohlcv_pe,1,4,A股小盘,中证500
+SH000905 Index,CO1 Comdty_250,-0.261795694,0.261795694,CO1 Comdty,250,jf_data.index_ohlcv_pe,1,18,A股小盘,中证500
+SH000905 Index,XB1 Comdty_250,-0.260646912,0.260646912,XB1 Comdty,250,jf_data.index_ohlcv_pe,1,19,A股小盘,中证500
+SH000905 Index,HO1 Comdty_250,-0.273868714,0.273868714,HO1 Comdty,250,jf_data.index_ohlcv_pe,1,12,A股小盘,中证500
+SH000905 Index,QS1 Comdty_250,-0.281138743,0.281138743,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,10,A股小盘,中证500
+SH000905 Index,FN1 Comdty_250,-0.285853356,0.285853356,FN1 Comdty,250,jf_data.index_ohlcv_pe,1,8,A股小盘,中证500
+SH000905 Index,KO1 Comdty_0,-0.291439553,0.291439553,KO1 Comdty,0,jf_data.index_ohlcv_pe,1,5,A股小盘,中证500
+SH000905 Index,SPGSCITR Index_250,-0.282490866,0.282490866,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,9,A股小盘,中证500
+SH000905 Index,SZASHR Index_0,-0.269409084,0.269409084,SZASHR Index,0,jf_data.index_ohlcv_pe,1,15,A股小盘,中证500
+SH000905 Index,DSM Index_250,-0.26416041,0.26416041,DSM Index,250,jf_data.index_ohlcv_pe,1,17,A股小盘,中证500
+SH000905 Index,MUTKCALM Index_250,0.300875076,0.300875076,MUTKCALM Index,250,jf_data.index_ohlcv_pe,1,3,A股小盘,中证500
+I29380US Index,CHUF Index_0,0.750806153,0.750806153,CHUF Index,0,jf_data.eco_nav,1,7,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,MXONBR Index_0,0.740032383,0.740032383,MXONBR Index,0,jf_data.eco_nav,1,8,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,WCAUUS Index_120,-0.719921747,0.719921747,WCAUUS Index,120,jf_data.eco_nav,1,18,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,WCAUUS Index_250,-0.718918033,0.718918033,WCAUUS Index,250,jf_data.eco_nav,2,19,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,CLICP Index_0,0.717458592,0.717458592,CLICP Index,0,jf_data.eco_nav,1,20,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,PPCBOND Index_250,0.722473254,0.722473254,PPCBOND Index,250,jf_data.eco_nav,1,16,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,PPCBON Index_250,0.722397111,0.722397111,PPCBON Index,250,jf_data.eco_nav,1,17,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,NYMOCNCN Index_250,-0.733836956,0.733836956,NYMOCNCN Index,250,jf_data.eco_nav,1,10,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,EBBSTOTA Index_0,0.729506879,0.729506879,EBBSTOTA Index,0,jf_data.eco_nav,1,12,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,DOETCRUD Index_0,0.764405509,0.764405509,DOETCRUD Index,0,jf_data.eco_nav,1,4,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,DOESCRUD Index_120,0.733527614,0.733527614,DOESCRUD Index,120,jf_data.eco_nav,1,11,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,CRVZVZBK Index_120,-0.774339752,0.774339752,CRVZVZBK Index,120,jf_data.eco_nav,1,2,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,USHBMIDX Index_120,-0.737209188,0.737209188,USHBMIDX Index,120,jf_data.eco_nav,1,9,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,GRUEPR Index_0,-0.725274578,0.725274578,GRUEPR Index,0,jf_data.eco_nav,1,15,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,PRCPYOY Index_250,0.791965694,0.791965694,PRCPYOY Index,250,jf_data.eco_nav,1,1,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,IBREGPMY Index_250,-0.726347454,0.726347454,IBREGPMY Index,250,jf_data.eco_nav,1,14,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,EUCV06M Index_90,-0.727884492,0.727884492,EUCV06M Index,90,jf_data.eco_nav,2,13,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,EUCV06M Index_120,-0.764747743,0.764747743,EUCV06M Index,120,jf_data.eco_nav,1,3,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,AHE YOY% Index_0,0.753724626,0.753724626,AHE YOY% Index,0,jf_data.eco_nav,1,6,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,USHEYOY Index_0,0.760126265,0.760126265,USHEYOY Index,0,jf_data.eco_nav,1,5,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,VNINDEX Index_250,-0.780303143,0.780303143,VNINDEX Index,250,jf_data.index_ohlcv_pe,1,1,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,TPNBNK Index_250,-0.736219157,0.736219157,TPNBNK Index,250,jf_data.index_ohlcv_pe,1,19,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,S5COND Index_120,-0.739466692,0.739466692,S5COND Index,120,jf_data.index_ohlcv_pe,1,15,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,KOSDAQ Index_250,-0.751490728,0.751490728,KOSDAQ Index,250,jf_data.index_ohlcv_pe,1,7,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,CSIH1006 Index_0,0.745072917,0.745072917,CSIH1006 Index,0,jf_data.index_ohlcv_pe,1,10,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,KOSDQ150 Index_250,-0.739203915,0.739203915,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,17,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,VN30 Index_250,-0.77633326,0.77633326,VN30 Index,250,jf_data.index_ohlcv_pe,1,2,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,TPX100 Index_250,-0.734386764,0.734386764,TPX100 Index,250,jf_data.index_ohlcv_pe,1,20,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,S5TECH Index_120,-0.756690439,0.756690439,S5TECH Index,120,jf_data.index_ohlcv_pe,1,6,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,S5TECH Index_250,-0.737821,0.737821,S5TECH Index,250,jf_data.index_ohlcv_pe,2,18,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,S5AERO Index_250,-0.74692834,0.74692834,S5AERO Index,250,jf_data.index_ohlcv_pe,1,9,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,TPRETL Index_250,-0.770617393,0.770617393,TPRETL Index,250,jf_data.index_ohlcv_pe,1,3,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,TXPR Index_120,-0.743498746,0.743498746,TXPR Index,120,jf_data.index_ohlcv_pe,1,11,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,LF98OAS Index_0,0.743209679,0.743209679,LF98OAS Index,0,jf_data.index_ohlcv_pe,1,12,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,LF98OAS Index_250,0.739577253,0.739577253,LF98OAS Index,250,jf_data.index_ohlcv_pe,2,14,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,CL1 Comdty_120,-0.73923467,0.73923467,CL1 Comdty,120,jf_data.index_ohlcv_pe,1,16,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,CO1 Comdty_120,-0.76077276,0.76077276,CO1 Comdty,120,jf_data.index_ohlcv_pe,1,4,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,QS1 Comdty_120,-0.751411327,0.751411327,QS1 Comdty,120,jf_data.index_ohlcv_pe,1,8,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,SPGSCITR Index_120,-0.760690617,0.760690617,SPGSCITR Index,120,jf_data.index_ohlcv_pe,1,5,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+I29380US Index,FTTWN Index_120,-0.742577708,0.742577708,FTTWN Index,120,jf_data.index_ohlcv_pe,1,13,大中华债券,彭博巴克莱亚洲除日本中国信用指数
+MXGD Index,CHUF Index_44,-0.34171402,0.34171402,CHUF Index,44,jf_data.eco_nav,1,3,大中华股票,MSCI金龙指数
+MXGD Index,CHUF Index_90,-0.298935612,0.298935612,CHUF Index,90,jf_data.eco_nav,2,11,大中华股票,MSCI金龙指数
+MXGD Index,CPIIINDX Index_90,-0.323829,0.323829,CPIIINDX Index,90,jf_data.eco_nav,2,6,大中华股票,MSCI金龙指数
+MXGD Index,CPIIINDX Index_120,-0.368829773,0.368829773,CPIIINDX Index,120,jf_data.eco_nav,1,1,大中华股票,MSCI金龙指数
+MXGD Index,MAOPRATE Index_90,-0.297990695,0.297990695,MAOPRATE Index,90,jf_data.eco_nav,1,12,大中华股票,MSCI金龙指数
+MXGD Index,KLIB3M Index_44,-0.301591605,0.301591605,KLIB3M Index,44,jf_data.eco_nav,1,10,大中华股票,MSCI金龙指数
+MXGD Index,KLIB3M Index_120,-0.288902107,0.288902107,KLIB3M Index,120,jf_data.eco_nav,2,16,大中华股票,MSCI金龙指数
+MXGD Index,KLIB1M Index_44,-0.280830532,0.280830532,KLIB1M Index,44,jf_data.eco_nav,1,20,大中华股票,MSCI金龙指数
+MXGD Index,3AGSREG Index_250,-0.286591726,0.286591726,3AGSREG Index,250,jf_data.eco_nav,1,18,大中华股票,MSCI金龙指数
+MXGD Index,IDGBTOTL Index_90,0.286677111,0.286677111,IDGBTOTL Index,90,jf_data.eco_nav,1,17,大中华股票,MSCI金龙指数
+MXGD Index,DOETCRUD Index_120,0.312015124,0.312015124,DOETCRUD Index,120,jf_data.eco_nav,1,8,大中华股票,MSCI金龙指数
+MXGD Index,CPMINMAN Index_44,0.36364525,0.36364525,CPMINMAN Index,44,jf_data.eco_nav,1,2,大中华股票,MSCI金龙指数
+MXGD Index,CONSPXMD Index_0,-0.292415283,0.292415283,CONSPXMD Index,0,jf_data.eco_nav,2,14,大中华股票,MSCI金龙指数
+MXGD Index,CONSPXMD Index_250,-0.336845479,0.336845479,CONSPXMD Index,250,jf_data.eco_nav,1,4,大中华股票,MSCI金龙指数
+MXGD Index,EMPRPAID Index_0,-0.31224833,0.31224833,EMPRPAID Index,0,jf_data.eco_nav,1,7,大中华股票,MSCI金龙指数
+MXGD Index,ECO1GFKC Index_44,0.296720953,0.296720953,ECO1GFKC Index,44,jf_data.eco_nav,2,13,大中华股票,MSCI金龙指数
+MXGD Index,ECO1GFKC Index_90,0.303408665,0.303408665,ECO1GFKC Index,90,jf_data.eco_nav,1,9,大中华股票,MSCI金龙指数
+MXGD Index,OPCRTOTL Index_90,-0.289634712,0.289634712,OPCRTOTL Index,90,jf_data.eco_nav,2,15,大中华股票,MSCI金龙指数
+MXGD Index,OPCRTOTL Index_250,-0.334735338,0.334735338,OPCRTOTL Index,250,jf_data.eco_nav,1,5,大中华股票,MSCI金龙指数
+MXGD Index,MXEF Index_0,-0.279066569,0.279066569,MXEF Index,0,jf_data.index_ohlcv_pe,1,15,大中华股票,MSCI金龙指数
+MXGD Index,MXWO0EN Index_0,-0.281308799,0.281308799,MXWO0EN Index,0,jf_data.index_ohlcv_pe,1,14,大中华股票,MSCI金龙指数
+MXGD Index,KOSDQ150 Index_250,-0.293313316,0.293313316,KOSDQ150 Index,250,jf_data.index_ohlcv_pe,1,9,大中华股票,MSCI金龙指数
+MXGD Index,XOI Index_0,-0.271217869,0.271217869,XOI Index,0,jf_data.index_ohlcv_pe,1,19,大中华股票,MSCI金龙指数
+MXGD Index,SHPROP Index_90,0.304095377,0.304095377,SHPROP Index,90,jf_data.index_ohlcv_pe,2,4,大中华股票,MSCI金龙指数
+MXGD Index,SHPROP Index_120,0.321602751,0.321602751,SHPROP Index,120,jf_data.index_ohlcv_pe,1,2,大中华股票,MSCI金龙指数
+MXGD Index,QNET Index_250,-0.284767481,0.284767481,QNET Index,250,jf_data.index_ohlcv_pe,1,13,大中华股票,MSCI金龙指数
+MXGD Index,EURPLN Curncy_0,0.285374144,0.285374144,EURPLN Curncy,0,jf_data.index_ohlcv_pe,2,12,大中华股票,MSCI金龙指数
+MXGD Index,EURPLN Curncy_250,0.296227939,0.296227939,EURPLN Curncy,250,jf_data.index_ohlcv_pe,1,7,大中华股票,MSCI金龙指数
+MXGD Index,EURCZK Curncy_250,0.278968561,0.278968561,EURCZK Curncy,250,jf_data.index_ohlcv_pe,1,17,大中华股票,MSCI金龙指数
+MXGD Index,ILS Curncy_250,0.285502958,0.285502958,ILS Curncy,250,jf_data.index_ohlcv_pe,1,11,大中华股票,MSCI金龙指数
+MXGD Index,PLN Curncy_250,0.305693159,0.305693159,PLN Curncy,250,jf_data.index_ohlcv_pe,1,3,大中华股票,MSCI金龙指数
+MXGD Index,HO1 Comdty_250,-0.294447194,0.294447194,HO1 Comdty,250,jf_data.index_ohlcv_pe,1,8,大中华股票,MSCI金龙指数
+MXGD Index,QS1 Comdty_250,-0.303954708,0.303954708,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,6,大中华股票,MSCI金龙指数
+MXGD Index,SPGSCITR Index_250,-0.323469004,0.323469004,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,1,大中华股票,MSCI金龙指数
+MXGD Index,MSEUEGF Index_0,-0.279059508,0.279059508,MSEUEGF Index,0,jf_data.index_ohlcv_pe,1,16,大中华股票,MSCI金龙指数
+MXGD Index,CRY Index_250,-0.291729872,0.291729872,CRY Index,250,jf_data.index_ohlcv_pe,1,10,大中华股票,MSCI金龙指数
+MXGD Index,DSM Index_0,-0.273198832,0.273198832,DSM Index,0,jf_data.index_ohlcv_pe,2,18,大中华股票,MSCI金龙指数
+MXGD Index,DSM Index_250,-0.304023308,0.304023308,DSM Index,250,jf_data.index_ohlcv_pe,1,5,大中华股票,MSCI金龙指数
+CSIH1073 Index,CHUF Index_44,0.354952189,0.354952189,CHUF Index,44,jf_data.eco_nav,1,5,中国信用债,中证信用债指数
+CSIH1073 Index,CHUF Index_90,0.317894412,0.317894412,CHUF Index,90,jf_data.eco_nav,2,11,中国信用债,中证信用债指数
+CSIH1073 Index,CEFWOPCT Index_44,-0.342622677,0.342622677,CEFWOPCT Index,44,jf_data.eco_nav,2,7,中国信用债,中证信用债指数
+CSIH1073 Index,CEFWOPCT Index_90,-0.379289211,0.379289211,CEFWOPCT Index,90,jf_data.eco_nav,1,2,中国信用债,中证信用债指数
+CSIH1073 Index,CPMINMAN Index_44,-0.353693984,0.353693984,CPMINMAN Index,44,jf_data.eco_nav,1,6,中国信用债,中证信用债指数
+CSIH1073 Index,CPMINMAN Index_90,-0.312876393,0.312876393,CPMINMAN Index,90,jf_data.eco_nav,2,14,中国信用债,中证信用债指数
+CSIH1073 Index,ECO1GFKC Index_20,-0.425346045,0.425346045,ECO1GFKC Index,20,jf_data.eco_nav,1,1,中国信用债,中证信用债指数
+CSIH1073 Index,ECO1GFKC Index_44,-0.376945592,0.376945592,ECO1GFKC Index,44,jf_data.eco_nav,2,3,中国信用债,中证信用债指数
+CSIH1073 Index,THCPI Index_20,-0.338677477,0.338677477,THCPI Index,20,jf_data.eco_nav,1,9,中国信用债,中证信用债指数
+CSIH1073 Index,TWIRFE Index_20,-0.367822125,0.367822125,TWIRFE Index,20,jf_data.eco_nav,1,4,中国信用债,中证信用债指数
+CSIH1073 Index,TWIRFE Index_44,-0.279301042,0.279301042,TWIRFE Index,44,jf_data.eco_nav,2,20,中国信用债,中证信用债指数
+CSIH1073 Index,TWSE Index_90,-0.308658159,0.308658159,TWSE Index,90,jf_data.index_ohlcv_pe,1,4,中国信用债,中证信用债指数
+CSIH1073 Index,KOSPI2 Index_90,-0.292997704,0.292997704,KOSPI2 Index,90,jf_data.index_ohlcv_pe,1,17,中国信用债,中证信用债指数
+CSIH1073 Index,RTSI$ Index_44,-0.29612915,0.29612915,RTSI$ Index,44,jf_data.index_ohlcv_pe,1,13,中国信用债,中证信用债指数
+CSIH1073 Index,IMOEX Index_44,-0.305707041,0.305707041,IMOEX Index,44,jf_data.index_ohlcv_pe,1,6,中国信用债,中证信用债指数
+CSIH1073 Index,TAMSCI Index_90,-0.293847935,0.293847935,TAMSCI Index,90,jf_data.index_ohlcv_pe,1,15,中国信用债,中证信用债指数
+CSIH1073 Index,OSX Index_44,-0.291095885,0.291095885,OSX Index,44,jf_data.index_ohlcv_pe,1,20,中国信用债,中证信用债指数
+CSIH1073 Index,MXMY Index_90,-0.293572191,0.293572191,MXMY Index,90,jf_data.index_ohlcv_pe,1,16,中国信用债,中证信用债指数
+CSIH1073 Index,MXKR Index_90,-0.291148137,0.291148137,MXKR Index,90,jf_data.index_ohlcv_pe,1,19,中国信用债,中证信用债指数
+CSIH1073 Index,FBMS Index_44,-0.307029672,0.307029672,FBMS Index,44,jf_data.index_ohlcv_pe,1,5,中国信用债,中证信用债指数
+CSIH1073 Index,AIM100 Index_44,-0.303073348,0.303073348,AIM100 Index,44,jf_data.index_ohlcv_pe,1,7,中国信用债,中证信用债指数
+CSIH1073 Index,RTYFAST Index_250,-0.315999269,0.315999269,RTYFAST Index,250,jf_data.index_ohlcv_pe,1,3,中国信用债,中证信用债指数
+CSIH1073 Index,XPD Curncy_44,-0.330648268,0.330648268,XPD Curncy,44,jf_data.index_ohlcv_pe,1,2,中国信用债,中证信用债指数
+CSIH1073 Index,AUDCAD Curncy_90,-0.298766795,0.298766795,AUDCAD Curncy,90,jf_data.index_ohlcv_pe,1,11,中国信用债,中证信用债指数
+CSIH1073 Index,IOE1 Comdty_250,-0.383193977,0.383193977,IOE1 Comdty,250,jf_data.index_ohlcv_pe,1,1,中国信用债,中证信用债指数
+CSIH1073 Index,MXGD Index_90,-0.294499143,0.294499143,MXGD Index,90,jf_data.index_ohlcv_pe,1,14,中国信用债,中证信用债指数
+CSIH1073 Index,HSCCI Index_90,-0.297154867,0.297154867,HSCCI Index,90,jf_data.index_ohlcv_pe,1,12,中国信用债,中证信用债指数
+CSIH1073 Index,TWOTCI Index_90,-0.2919807,0.2919807,TWOTCI Index,90,jf_data.index_ohlcv_pe,1,18,中国信用债,中证信用债指数
+CSIH1073 Index,FTRUSN Index_44,-0.300470284,0.300470284,FTRUSN Index,44,jf_data.index_ohlcv_pe,1,9,中国信用债,中证信用债指数
+CSIH1073 Index,FTTWN Index_90,-0.301768981,0.301768981,FTTWN Index,90,jf_data.index_ohlcv_pe,1,8,中国信用债,中证信用债指数
+CSIH1073 Index,MICEX10 Index_44,-0.299833574,0.299833574,MICEX10 Index,44,jf_data.index_ohlcv_pe,1,10,中国信用债,中证信用债指数
+CSIH1006 Index,CHUF Index_44,0.276244691,0.276244691,CHUF Index,44,jf_data.eco_nav,2,16,中国利率债,中证国债指数
+CSIH1006 Index,CHUF Index_120,0.291211384,0.291211384,CHUF Index,120,jf_data.eco_nav,1,11,中国利率债,中证国债指数
+CSIH1006 Index,WCAUWRLD Index_44,-0.294585404,0.294585404,WCAUWRLD Index,44,jf_data.eco_nav,1,9,中国利率债,中证国债指数
+CSIH1006 Index,FXCTLTAM Index_44,-0.27322561,0.27322561,FXCTLTAM Index,44,jf_data.eco_nav,1,18,中国利率债,中证国债指数
+CSIH1006 Index,BBRXBRBL Index_120,0.336810797,0.336810797,BBRXBRBL Index,120,jf_data.eco_nav,1,2,中国利率债,中证国债指数
+CSIH1006 Index,EMCFPROX Index_44,-0.281596175,0.281596175,EMCFPROX Index,44,jf_data.eco_nav,1,14,中国利率债,中证国债指数
+CSIH1006 Index,USTWBROA Index_44,0.325112507,0.325112507,USTWBROA Index,44,jf_data.eco_nav,1,6,中国利率债,中证国债指数
+CSIH1006 Index,USTW$ Index_44,0.332496176,0.332496176,USTW$ Index,44,jf_data.eco_nav,1,4,中国利率债,中证国债指数
+CSIH1006 Index,USTW$ Index_90,0.274300185,0.274300185,USTW$ Index,90,jf_data.eco_nav,2,17,中国利率债,中证国债指数
+CSIH1006 Index,CEFWOPCT Index_90,-0.333303714,0.333303714,CEFWOPCT Index,90,jf_data.eco_nav,1,3,中国利率债,中证国债指数
+CSIH1006 Index,CEFWOPCT Index_120,-0.332460296,0.332460296,CEFWOPCT Index,120,jf_data.eco_nav,2,5,中国利率债,中证国债指数
+CSIH1006 Index,USRINDEX Index_250,0.282167618,0.282167618,USRINDEX Index,250,jf_data.eco_nav,1,13,中国利率债,中证国债指数
+CSIH1006 Index,GRZEEUEX Index_250,0.293631356,0.293631356,GRZEEUEX Index,250,jf_data.eco_nav,1,10,中国利率债,中证国债指数
+CSIH1006 Index,CPMINMAN Index_44,-0.269417823,0.269417823,CPMINMAN Index,44,jf_data.eco_nav,1,20,中国利率债,中证国债指数
+CSIH1006 Index,ECO1GFKC Index_20,-0.27231527,0.27231527,ECO1GFKC Index,20,jf_data.eco_nav,2,19,中国利率债,中证国债指数
+CSIH1006 Index,ECO1GFKC Index_44,-0.277080854,0.277080854,ECO1GFKC Index,44,jf_data.eco_nav,1,15,中国利率债,中证国债指数
+CSIH1006 Index,TWIRFE Index_10,-0.308618383,0.308618383,TWIRFE Index,10,jf_data.eco_nav,2,8,中国利率债,中证国债指数
+CSIH1006 Index,TWIRFE Index_20,-0.386894161,0.386894161,TWIRFE Index,20,jf_data.eco_nav,1,1,中国利率债,中证国债指数
+CSIH1006 Index,MXWO0EN Index_44,-0.324464196,0.324464196,MXWO0EN Index,44,jf_data.index_ohlcv_pe,1,15,中国利率债,中证国债指数
+CSIH1006 Index,STEEL Index_44,-0.3316096,0.3316096,STEEL Index,44,jf_data.index_ohlcv_pe,1,13,中国利率债,中证国债指数
+CSIH1006 Index,FBMS Index_44,-0.323588925,0.323588925,FBMS Index,44,jf_data.index_ohlcv_pe,1,16,中国利率债,中证国债指数
+CSIH1006 Index,AIM100 Index_44,-0.315993716,0.315993716,AIM100 Index,44,jf_data.index_ohlcv_pe,1,19,中国利率债,中证国债指数
+CSIH1006 Index,RTYFAST Index_250,-0.361753798,0.361753798,RTYFAST Index,250,jf_data.index_ohlcv_pe,1,2,中国利率债,中证国债指数
+CSIH1006 Index,BBDXY Index_44,0.33597317,0.33597317,BBDXY Index,44,jf_data.index_ohlcv_pe,1,7,中国利率债,中证国债指数
+CSIH1006 Index,IBXXC2D1 Index_90,-0.356868527,0.356868527,IBXXC2D1 Index,90,jf_data.index_ohlcv_pe,1,3,中国利率债,中证国债指数
+CSIH1006 Index,EUR Curncy_44,-0.334963429,0.334963429,EUR Curncy,44,jf_data.index_ohlcv_pe,1,8.5,中国利率债,中证国债指数
+CSIH1006 Index,EURUSD Curncy_44,-0.334963429,0.334963429,EURUSD Curncy,44,jf_data.index_ohlcv_pe,1,8.5,中国利率债,中证国债指数
+CSIH1006 Index,DXY Curncy_44,0.333334917,0.333334917,DXY Curncy,44,jf_data.index_ohlcv_pe,1,11.5,中国利率债,中证国债指数
+CSIH1006 Index,AUD Curncy_44,-0.339510185,0.339510185,AUD Curncy,44,jf_data.index_ohlcv_pe,1,4.5,中国利率债,中证国债指数
+CSIH1006 Index,AUDUSD Curncy_44,-0.339510185,0.339510185,AUDUSD Curncy,44,jf_data.index_ohlcv_pe,1,4.5,中国利率债,中证国债指数
+CSIH1006 Index,USDEUR Curncy_44,0.334809251,0.334809251,USDEUR Curncy,44,jf_data.index_ohlcv_pe,1,10,中国利率债,中证国债指数
+CSIH1006 Index,XPD Curncy_44,-0.313061972,0.313061972,XPD Curncy,44,jf_data.index_ohlcv_pe,1,20,中国利率债,中证国债指数
+CSIH1006 Index,IOE1 Comdty_250,-0.388975088,0.388975088,IOE1 Comdty,250,jf_data.index_ohlcv_pe,1,1,中国利率债,中证国债指数
+CSIH1006 Index,SPGINRTR Index_44,-0.325683812,0.325683812,SPGINRTR Index,44,jf_data.index_ohlcv_pe,1,14,中国利率债,中证国债指数
+CSIH1006 Index,DXY Index_44,0.333334917,0.333334917,DXY Index,44,jf_data.index_ohlcv_pe,1,11.5,中国利率债,中证国债指数
+CSIH1006 Index,FTFRAN Index_90,-0.336154653,0.336154653,FTFRAN Index,90,jf_data.index_ohlcv_pe,1,6,中国利率债,中证国债指数
+CSIH1006 Index,FTDEUN Index_90,-0.320722189,0.320722189,FTDEUN Index,90,jf_data.index_ohlcv_pe,1,18,中国利率债,中证国债指数
+CSIH1006 Index,HFRXGL Index_44,-0.322459659,0.322459659,HFRXGL Index,44,jf_data.index_ohlcv_pe,1,17,中国利率债,中证国债指数
+XAU Curncy,RREFKEYR Index_20,0.231733792,0.231733792,RREFKEYR Index,20,jf_data.eco_nav,1,5,黄金,伦敦金收益率
+XAU Curncy,RREFKANN Index_20,0.23225284,0.23225284,RREFKANN Index,20,jf_data.eco_nav,1,4,黄金,伦敦金收益率
+XAU Curncy,AUANCCW Index_250,-0.240792943,0.240792943,AUANCCW Index,250,jf_data.eco_nav,1,3,黄金,伦敦金收益率
+XAU Curncy,PHC2II Index_20,0.253853236,0.253853236,PHC2II Index,20,jf_data.eco_nav,1,1,黄金,伦敦金收益率
+XAU Curncy,PHC2II Index_90,0.242478241,0.242478241,PHC2II Index,90,jf_data.eco_nav,2,2,黄金,伦敦金收益率
+XAU Curncy,JNCPTXFF Index_250,0.221547916,0.221547916,JNCPTXFF Index,250,jf_data.eco_nav,1,6,黄金,伦敦金收益率
+XAU Curncy,NYFANG Index_44,-0.24284242,0.24284242,NYFANG Index,44,jf_data.index_ohlcv_pe,2,5,黄金,伦敦金收益率
+XAU Curncy,NYFANG Index_120,-0.257476047,0.257476047,NYFANG Index,120,jf_data.index_ohlcv_pe,1,3,黄金,伦敦金收益率
+XAU Curncy,TPNBNK Index_120,-0.234285579,0.234285579,TPNBNK Index,120,jf_data.index_ohlcv_pe,1,8,黄金,伦敦金收益率
+XAU Curncy,LMBITR Index_20,0.226806171,0.226806171,LMBITR Index,20,jf_data.index_ohlcv_pe,1,11,黄金,伦敦金收益率
+XAU Curncy,LD06TRUU Index_20,0.225054753,0.225054753,LD06TRUU Index,20,jf_data.index_ohlcv_pe,1,13,黄金,伦敦金收益率
+XAU Curncy,I17660US Index_10,0.236159619,0.236159619,I17660US Index,10,jf_data.index_ohlcv_pe,2,7,黄金,伦敦金收益率
+XAU Curncy,I17660US Index_20,0.258644151,0.258644151,I17660US Index,20,jf_data.index_ohlcv_pe,1,2,黄金,伦敦金收益率
+XAU Curncy,BFU5TRUU Index_10,0.230325147,0.230325147,BFU5TRUU Index,10,jf_data.index_ohlcv_pe,2,9,黄金,伦敦金收益率
+XAU Curncy,BFU5TRUU Index_20,0.252753543,0.252753543,BFU5TRUU Index,20,jf_data.index_ohlcv_pe,1,4,黄金,伦敦金收益率
+XAU Curncy,BCNCOAS Index_0,0.276847006,0.276847006,BCNCOAS Index,0,jf_data.index_ohlcv_pe,1,1,黄金,伦敦金收益率
+XAU Curncy,FLQ1IN Index_120,-0.22278355,0.22278355,FLQ1IN Index,120,jf_data.index_ohlcv_pe,1,14,黄金,伦敦金收益率
+XAU Curncy,FTSAUN Index_20,-0.229293063,0.229293063,FTSAUN Index,20,jf_data.index_ohlcv_pe,1,10,黄金,伦敦金收益率
+XAU Curncy,FTSAUN Index_120,-0.226158733,0.226158733,FTSAUN Index,120,jf_data.index_ohlcv_pe,2,12,黄金,伦敦金收益率
+SPGSCITR Index,CHUF Index_44,-0.324464944,0.324464944,CHUF Index,44,jf_data.eco_nav,2,6,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CHUF Index_90,-0.389590751,0.389590751,CHUF Index,90,jf_data.eco_nav,1,2,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CPIIINDX Index_120,-0.326361785,0.326361785,CPIIINDX Index,120,jf_data.eco_nav,1,5,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CLFXDOOB Index_90,-0.371259276,0.371259276,CLFXDOOB Index,90,jf_data.eco_nav,2,3,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CLFXDOOB Index_120,-0.39896163,0.39896163,CLFXDOOB Index,120,jf_data.eco_nav,1,1,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,NOIWTOT Index_90,-0.284511137,0.284511137,NOIWTOT Index,90,jf_data.eco_nav,1,19,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,PPCBOND Index_120,-0.294926211,0.294926211,PPCBOND Index,120,jf_data.eco_nav,1,12,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,PPCBON Index_120,-0.284981534,0.284981534,PPCBON Index,120,jf_data.eco_nav,1,18,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,FARBAST Index_44,-0.285123639,0.285123639,FARBAST Index,44,jf_data.eco_nav,1,17,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CERBTTAL Index_44,-0.285410948,0.285410948,CERBTTAL Index,44,jf_data.eco_nav,1,16,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,FARWTSRF Index_44,-0.284330387,0.284330387,FARWTSRF Index,44,jf_data.eco_nav,1,20,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,FARBRBFB Index_44,-0.29107041,0.29107041,FARBRBFB Index,44,jf_data.eco_nav,1,13,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,TUES01EU Index_120,-0.306410938,0.306410938,TUES01EU Index,120,jf_data.eco_nav,1,10,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,ARDITRBM Index_10,-0.344340951,0.344340951,ARDITRBM Index,10,jf_data.eco_nav,1,4,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,ARDITRBM Index_44,-0.309590578,0.309590578,ARDITRBM Index,44,jf_data.eco_nav,2,8,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CPMINDX Index_90,0.314749924,0.314749924,CPMINDX Index,90,jf_data.eco_nav,1,7,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,ECO1GFKC Index_90,0.290135751,0.290135751,ECO1GFKC Index,90,jf_data.eco_nav,1,14,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,THCPI Index_20,0.304137559,0.304137559,THCPI Index,20,jf_data.eco_nav,1,11,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,TWSE Index_44,0.315104287,0.315104287,TWSE Index,44,jf_data.index_ohlcv_pe,2,16,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,TWSE Index_90,0.321466628,0.321466628,TWSE Index,90,jf_data.index_ohlcv_pe,1,14,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,AXX Index_44,0.31056053,0.31056053,AXX Index,44,jf_data.index_ohlcv_pe,1,19,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,STEEL Index_44,0.334956523,0.334956523,STEEL Index,44,jf_data.index_ohlcv_pe,1,10,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,F3MNG Index_44,0.313165124,0.313165124,F3MNG Index,44,jf_data.index_ohlcv_pe,1,18,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,SPBDLLB Index_44,0.317160122,0.317160122,SPBDLLB Index,44,jf_data.index_ohlcv_pe,1,15,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,I17660US Index_120,0.323159363,0.323159363,I17660US Index,120,jf_data.index_ohlcv_pe,1,13,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,SPBDLL Index_44,0.313829375,0.313829375,SPBDLL Index,44,jf_data.index_ohlcv_pe,1,17,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CLP Curncy_90,-0.369949667,0.369949667,CLP Curncy,90,jf_data.index_ohlcv_pe,2,5,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,CLP Curncy_120,-0.39661822,0.39661822,CLP Curncy,120,jf_data.index_ohlcv_pe,1,2,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,XPT Curncy_90,0.387887433,0.387887433,XPT Curncy,90,jf_data.index_ohlcv_pe,1,3,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,XPT Curncy_120,0.350177263,0.350177263,XPT Curncy,120,jf_data.index_ohlcv_pe,2,8,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,PHP Curncy_120,-0.365079889,0.365079889,PHP Curncy,120,jf_data.index_ohlcv_pe,1,6,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,PEN Curncy_44,-0.347680794,0.347680794,PEN Curncy,44,jf_data.index_ohlcv_pe,1,9,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,KO1 Comdty_90,0.407383276,0.407383276,KO1 Comdty,90,jf_data.index_ohlcv_pe,1,1,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,KO1 Comdty_120,0.371967708,0.371967708,KO1 Comdty,120,jf_data.index_ohlcv_pe,2,4,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,FTRUSN Index_44,0.329585563,0.329585563,FTRUSN Index,44,jf_data.index_ohlcv_pe,1,12,能源,标准普尔高盛商品总收益指数
+SPGSCITR Index,IBXXLLTR Index_44,0.360142205,0.360142205,IBXXLLTR Index,44,jf_data.index_ohlcv_pe,1,7,能源,标准普尔高盛商品总收益指数
+LIBMB01M Index,ARNCYINX Index_90,0.660190317,0.660190317,ARNCYINX Index,90,jf_data.eco_nav,2,8,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,ARNCYINX Index_120,0.690767419,0.690767419,ARNCYINX Index,120,jf_data.eco_nav,1,6,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,CNMS2YOY Index_120,0.530505513,0.530505513,CNMS2YOY Index,120,jf_data.eco_nav,1,19,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,ECI SA% Index_20,0.606503032,0.606503032,ECI SA% Index,20,jf_data.eco_nav,1,11,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,ECI SA% Index_44,0.551945542,0.551945542,ECI SA% Index,44,jf_data.eco_nav,2,15,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,AULFEMPC Index_120,-0.577039432,0.577039432,AULFEMPC Index,120,jf_data.eco_nav,1,12,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,IRRBIOER Index_0,-0.753090729,0.753090729,IRRBIOER Index,0,jf_data.eco_nav,1,2,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,JSIABOND Index_250,0.526546771,0.526546771,JSIABOND Index,250,jf_data.eco_nav,1,20,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,GDPCPCEC Index_90,0.550192115,0.550192115,GDPCPCEC Index,90,jf_data.eco_nav,1,16,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,CFNAI Index_120,0.646585755,0.646585755,CFNAI Index,120,jf_data.eco_nav,1,9,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,HKFRAUSD Index_44,0.561290107,0.561290107,HKFRAUSD Index,44,jf_data.eco_nav,1,14,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BZRTRYOY Index_120,-0.546716178,0.546716178,BZRTRYOY Index,120,jf_data.eco_nav,1,17,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,HKRSVANY Index_90,0.702169803,0.702169803,HKRSVANY Index,90,jf_data.eco_nav,1,5,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,CHHEAVGM Index_90,0.727418684,0.727418684,CHHEAVGM Index,90,jf_data.eco_nav,1,3,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,CPMICOMP Index_250,0.717141366,0.717141366,CPMICOMP Index,250,jf_data.eco_nav,1,4,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,VNCPIYOY Index_10,0.613689956,0.613689956,VNCPIYOY Index,10,jf_data.eco_nav,1,10,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,VNCPIYOY Index_20,0.543135038,0.543135038,VNCPIYOY Index,20,jf_data.eco_nav,2,18,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,ARC6INDY Index_250,0.681849777,0.681849777,ARC6INDY Index,250,jf_data.eco_nav,1,7,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,CNUESRU Index_20,0.573495843,0.573495843,CNUESRU Index,20,jf_data.eco_nav,2,13,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,CNUESRU Index_90,0.809242747,0.809242747,CNUESRU Index,90,jf_data.eco_nav,1,1,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,AEX Index_250,0.328034157,0.328034157,AEX Index,250,jf_data.index_ohlcv_pe,1,11,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,MSDEWIN Index_44,0.323832137,0.323832137,MSDEWIN Index,44,jf_data.index_ohlcv_pe,1,19,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,MSERWI Index_44,0.325318126,0.325318126,MSERWI Index,44,jf_data.index_ohlcv_pe,1,16,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BUX Index_250,0.324091053,0.324091053,BUX Index,250,jf_data.index_ohlcv_pe,1,18,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,VXN Index_0,-0.326411451,0.326411451,VXN Index,0,jf_data.index_ohlcv_pe,1,13,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,RVX Index_0,-0.333867804,0.333867804,RVX Index,0,jf_data.index_ohlcv_pe,1,8,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,ENGL Index_44,0.335063879,0.335063879,ENGL Index,44,jf_data.index_ohlcv_pe,1,6,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,F3RETG Index_0,0.333909467,0.333909467,F3RETG Index,0,jf_data.index_ohlcv_pe,1,7,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,MBWO Index_44,0.32383196,0.32383196,MBWO Index,44,jf_data.index_ohlcv_pe,1,20,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,TXPR Index_20,0.344218287,0.344218287,TXPR Index,20,jf_data.index_ohlcv_pe,1,3,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,LBUSOAS Index_0,-0.338456444,0.338456444,LBUSOAS Index,0,jf_data.index_ohlcv_pe,1,5,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,LUACOAS Index_0,-0.325470527,0.325470527,LUACOAS Index,0,jf_data.index_ohlcv_pe,1,15,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BEBGOAS Index_250,-0.3478961,0.3478961,BEBGOAS Index,250,jf_data.index_ohlcv_pe,1,2,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,IHN+1M Curncy_44,-0.325887121,0.325887121,IHN+1M Curncy,44,jf_data.index_ohlcv_pe,1,14,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BCNCTRNU Index_44,0.330347133,0.330347133,BCNCTRNU Index,44,jf_data.index_ohlcv_pe,1,9,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BSSAOAS Index_0,-0.359746943,0.359746943,BSSAOAS Index,0,jf_data.index_ohlcv_pe,1,1,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BFCIUS Index_0,0.324189652,0.324189652,BFCIUS Index,0,jf_data.index_ohlcv_pe,1,17,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,BFCIUS+ Index_0,0.340434746,0.340434746,BFCIUS+ Index,0,jf_data.index_ohlcv_pe,1,4,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,FTSAUN Index_120,-0.327451875,0.327451875,FTSAUN Index,120,jf_data.index_ohlcv_pe,1,12,货币市场,LIBID USD 1 Month Rate Index
+LIBMB01M Index,MICEX10 Index_0,0.328611391,0.328611391,MICEX10 Index,0,jf_data.index_ohlcv_pe,1,10,货币市场,LIBID USD 1 Month Rate Index
+SHSZ300 Index,ARNCYINX Index_90,-0.614644976,0.614644976,ARNCYINX Index,90,jf_data.eco_nav,2,6,A股被动型,沪深300
+SHSZ300 Index,ARNCYINX Index_120,-0.657506871,0.657506871,ARNCYINX Index,120,jf_data.eco_nav,1,4,A股被动型,沪深300
+SHSZ300 Index,UKHBSAMM Index_250,-0.574148656,0.574148656,UKHBSAMM Index,250,jf_data.eco_nav,1,8,A股被动型,沪深300
+SHSZ300 Index,IRRBIOER Index_0,0.800233472,0.800233472,IRRBIOER Index,0,jf_data.eco_nav,1,1,A股被动型,沪深300
+SHSZ300 Index,IRRBIOER Index_44,0.574603175,0.574603175,IRRBIOER Index,44,jf_data.eco_nav,2,7,A股被动型,沪深300
+SHSZ300 Index,ARNCNINX Index_250,-0.653563331,0.653563331,ARNCNINX Index,250,jf_data.eco_nav,1,5,A股被动型,沪深300
+SHSZ300 Index,UKHB3MYR Index_250,0.522799797,0.522799797,UKHB3MYR Index,250,jf_data.eco_nav,1,10,A股被动型,沪深300
+SHSZ300 Index,CAHEPERM Index_0,-0.668420923,0.668420923,CAHEPERM Index,0,jf_data.eco_nav,1,3,A股被动型,沪深300
+SHSZ300 Index,CHHEAVGM Index_90,-0.487066184,0.487066184,CHHEAVGM Index,90,jf_data.eco_nav,2,14,A股被动型,沪深300
+SHSZ300 Index,CHHEAVGM Index_120,-0.565045326,0.565045326,CHHEAVGM Index,120,jf_data.eco_nav,1,9,A股被动型,沪深300
+SHSZ300 Index,POREANN Index_44,-0.46639879,0.46639879,POREANN Index,44,jf_data.eco_nav,1,18,A股被动型,沪深300
+SHSZ300 Index,JGDFDEFY Index_250,-0.470949007,0.470949007,JGDFDEFY Index,250,jf_data.eco_nav,1,15,A股被动型,沪深300
+SHSZ300 Index,CPMICOMP Index_0,-0.46523852,0.46523852,CPMICOMP Index,0,jf_data.eco_nav,1,20,A股被动型,沪深300
+SHSZ300 Index,SPNAGDPY Index_250,-0.465489933,0.465489933,SPNAGDPY Index,250,jf_data.eco_nav,1,19,A股被动型,沪深300
+SHSZ300 Index,ARC6INDY Index_90,-0.470392677,0.470392677,ARC6INDY Index,90,jf_data.eco_nav,2,16,A股被动型,沪深300
+SHSZ300 Index,ARC6INDY Index_120,-0.506938196,0.506938196,ARC6INDY Index,120,jf_data.eco_nav,1,11,A股被动型,沪深300
+SHSZ300 Index,TUES01EU Index_44,-0.489780784,0.489780784,TUES01EU Index,44,jf_data.eco_nav,1,12,A股被动型,沪深300
+SHSZ300 Index,CHBNINDX Index_20,-0.46803135,0.46803135,CHBNINDX Index,20,jf_data.eco_nav,1,17,A股被动型,沪深300
+SHSZ300 Index,CNUESRU Index_90,-0.743773278,0.743773278,CNUESRU Index,90,jf_data.eco_nav,1,2,A股被动型,沪深300
+SHSZ300 Index,XIN9I Index_90,0.314234682,0.314234682,XIN9I Index,90,jf_data.index_ohlcv_pe,1,10,A股被动型,沪深300
+SHSZ300 Index,SSE50 Index_90,0.305875236,0.305875236,SSE50 Index,90,jf_data.index_ohlcv_pe,1,12,A股被动型,沪深300
+SHSZ300 Index,JSAPY Index_90,0.315396091,0.315396091,JSAPY Index,90,jf_data.index_ohlcv_pe,2,9,A股被动型,沪深300
+SHSZ300 Index,JSAPY Index_120,0.322342516,0.322342516,JSAPY Index,120,jf_data.index_ohlcv_pe,1,6,A股被动型,沪深300
+SHSZ300 Index,SHPROP Index_90,0.355154862,0.355154862,SHPROP Index,90,jf_data.index_ohlcv_pe,1,1,A股被动型,沪深300
+SHSZ300 Index,SHPROP Index_120,0.341463359,0.341463359,SHPROP Index,120,jf_data.index_ohlcv_pe,2,3,A股被动型,沪深300
+SHSZ300 Index,EURCZK Curncy_0,0.343589133,0.343589133,EURCZK Curncy,0,jf_data.index_ohlcv_pe,1,2,A股被动型,沪深300
+SHSZ300 Index,ILS Curncy_0,0.334546388,0.334546388,ILS Curncy,0,jf_data.index_ohlcv_pe,1,4,A股被动型,沪深300
+SHSZ300 Index,HO1 Comdty_250,-0.308254345,0.308254345,HO1 Comdty,250,jf_data.index_ohlcv_pe,1,11,A股被动型,沪深300
+SHSZ300 Index,QS1 Comdty_250,-0.31599833,0.31599833,QS1 Comdty,250,jf_data.index_ohlcv_pe,1,8,A股被动型,沪深300
+SHSZ300 Index,FN1 Comdty_250,-0.326768794,0.326768794,FN1 Comdty,250,jf_data.index_ohlcv_pe,1,5,A股被动型,沪深300
+SHSZ300 Index,SPGSCITR Index_250,-0.316274575,0.316274575,SPGSCITR Index,250,jf_data.index_ohlcv_pe,1,7,A股被动型,沪深300
+CSIH1001 Index,IDBIRRPO Index_120,0.535365903,0.535365903,IDBIRRPO Index,120,jf_data.eco_nav,1,10,中国债券,中证全债指数
+CSIH1001 Index,ARNCYINX Index_120,0.536112347,0.536112347,ARNCYINX Index,120,jf_data.eco_nav,1,9,中国债券,中证全债指数
+CSIH1001 Index,MPMICNMA Index_90,-0.523780186,0.523780186,MPMICNMA Index,90,jf_data.eco_nav,1,12,中国债券,中证全债指数
+CSIH1001 Index,CHEFTYOY Index_20,-0.509526785,0.509526785,CHEFTYOY Index,20,jf_data.eco_nav,1,14,中国债券,中证全债指数
+CSIH1001 Index,GRZEWI Index_44,-0.536282565,0.536282565,GRZEWI Index,44,jf_data.eco_nav,1,8,中国债券,中证全债指数
+CSIH1001 Index,IRRBIOER Index_0,-0.745096128,0.745096128,IRRBIOER Index,0,jf_data.eco_nav,1,2,中国债券,中证全债指数
+CSIH1001 Index,UKRPYOY Index_250,-0.495287752,0.495287752,UKRPYOY Index,250,jf_data.eco_nav,1,16,中国债券,中证全债指数
+CSIH1001 Index,UKHB3MYR Index_44,-0.55118494,0.55118494,UKHB3MYR Index,44,jf_data.eco_nav,2,7,中国债券,中证全债指数
+CSIH1001 Index,UKHB3MYR Index_250,-0.660933073,0.660933073,UKHB3MYR Index,250,jf_data.eco_nav,1,5,中国债券,中证全债指数
+CSIH1001 Index,GEINYY Index_90,0.52436249,0.52436249,GEINYY Index,90,jf_data.eco_nav,1,11,中国债券,中证全债指数
+CSIH1001 Index,HKFRAUSD Index_20,-0.488596206,0.488596206,HKFRAUSD Index,20,jf_data.eco_nav,1,17,中国债券,中证全债指数
+CSIH1001 Index,CHHEAVGM Index_120,0.814236358,0.814236358,CHHEAVGM Index,120,jf_data.eco_nav,1,1,中国债券,中证全债指数
+CSIH1001 Index,MPMIDESA Index_20,-0.495803656,0.495803656,MPMIDESA Index,20,jf_data.eco_nav,1,15,中国债券,中证全债指数
+CSIH1001 Index,SAGDPANN Index_250,-0.523187788,0.523187788,SAGDPANN Index,250,jf_data.eco_nav,1,13,中国债券,中证全债指数
+CSIH1001 Index,VNCPIYOY Index_250,-0.487146441,0.487146441,VNCPIYOY Index,250,jf_data.eco_nav,1,19,中国债券,中证全债指数
+CSIH1001 Index,IDEXPY Index_10,0.485904057,0.485904057,IDEXPY Index,10,jf_data.eco_nav,2,20,中国债券,中证全债指数
+CSIH1001 Index,IDEXPY Index_20,0.487368398,0.487368398,IDEXPY Index,20,jf_data.eco_nav,1,18,中国债券,中证全债指数
+CSIH1001 Index,FRWAMOQ Index_250,-0.590175876,0.590175876,FRWAMOQ Index,250,jf_data.eco_nav,1,6,中国债券,中证全债指数
+CSIH1001 Index,CNUESRU Index_90,0.684385776,0.684385776,CNUESRU Index,90,jf_data.eco_nav,2,4,中国债券,中证全债指数
+CSIH1001 Index,CNUESRU Index_120,0.696546654,0.696546654,CNUESRU Index,120,jf_data.eco_nav,1,3,中国债券,中证全债指数
+CSIH1001 Index,OSX Index_44,-0.34333173,0.34333173,OSX Index,44,jf_data.index_ohlcv_pe,1,11,中国债券,中证全债指数
+CSIH1001 Index,MXWO0EN Index_44,-0.347733692,0.347733692,MXWO0EN Index,44,jf_data.index_ohlcv_pe,1,7,中国债券,中证全债指数
+CSIH1001 Index,MXKR Index_90,-0.333179243,0.333179243,MXKR Index,90,jf_data.index_ohlcv_pe,1,20,中国债券,中证全债指数
+CSIH1001 Index,STEEL Index_44,-0.368575042,0.368575042,STEEL Index,44,jf_data.index_ohlcv_pe,1,2,中国债券,中证全债指数
+CSIH1001 Index,FBMS Index_44,-0.348970482,0.348970482,FBMS Index,44,jf_data.index_ohlcv_pe,1,5,中国债券,中证全债指数
+CSIH1001 Index,AIM100 Index_44,-0.338716824,0.338716824,AIM100 Index,44,jf_data.index_ohlcv_pe,1,13,中国债券,中证全债指数
+CSIH1001 Index,BBDXY Index_44,0.337398503,0.337398503,BBDXY Index,44,jf_data.index_ohlcv_pe,1,14,中国债券,中证全债指数
+CSIH1001 Index,BACM0 Index_44,0.335973005,0.335973005,BACM0 Index,44,jf_data.index_ohlcv_pe,1,17,中国债券,中证全债指数
+CSIH1001 Index,EUR Curncy_44,-0.335945959,0.335945959,EUR Curncy,44,jf_data.index_ohlcv_pe,1,18.5,中国债券,中证全债指数
+CSIH1001 Index,EURUSD Curncy_44,-0.335945959,0.335945959,EURUSD Curncy,44,jf_data.index_ohlcv_pe,1,18.5,中国债券,中证全债指数
+CSIH1001 Index,AUD Curncy_44,-0.360515159,0.360515159,AUD Curncy,44,jf_data.index_ohlcv_pe,1,3.5,中国债券,中证全债指数
+CSIH1001 Index,AUDUSD Curncy_44,-0.360515159,0.360515159,AUDUSD Curncy,44,jf_data.index_ohlcv_pe,1,3.5,中国债券,中证全债指数
+CSIH1001 Index,USDEUR Curncy_44,0.336123833,0.336123833,USDEUR Curncy,44,jf_data.index_ohlcv_pe,1,16,中国债券,中证全债指数
+CSIH1001 Index,XPD Curncy_44,-0.34643117,0.34643117,XPD Curncy,44,jf_data.index_ohlcv_pe,1,9,中国债券,中证全债指数
+CSIH1001 Index,IOE1 Comdty_250,-0.387427843,0.387427843,IOE1 Comdty,250,jf_data.index_ohlcv_pe,1,1,中国债券,中证全债指数
+CSIH1001 Index,SPGINRTR Index_44,-0.348032705,0.348032705,SPGINRTR Index,44,jf_data.index_ohlcv_pe,1,6,中国债券,中证全债指数
+CSIH1001 Index,FTFRAN Index_90,-0.34767284,0.34767284,FTFRAN Index,90,jf_data.index_ohlcv_pe,1,8,中国债券,中证全债指数
+CSIH1001 Index,FTDEUN Index_90,-0.337356788,0.337356788,FTDEUN Index,90,jf_data.index_ohlcv_pe,1,15,中国债券,中证全债指数
+CSIH1001 Index,FTRUSN Index_44,-0.339093524,0.339093524,FTRUSN Index,44,jf_data.index_ohlcv_pe,1,12,中国债券,中证全债指数
+CSIH1001 Index,HFRXGL Index_44,-0.345995602,0.345995602,HFRXGL Index,44,jf_data.index_ohlcv_pe,1,10,中国债券,中证全债指数
+ACDPAC Index,IDBIRRPO Index_90,-0.36012182,0.36012182,IDBIRRPO Index,90,jf_data.eco_nav,1,16,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,ARNCYINX Index_90,-0.495642842,0.495642842,ARNCYINX Index,90,jf_data.eco_nav,1,6,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,ARNCYINX Index_250,-0.387050385,0.387050385,ARNCYINX Index,250,jf_data.eco_nav,2,14,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,MPMIGBMA Index_250,0.347315861,0.347315861,MPMIGBMA Index,250,jf_data.eco_nav,1,19,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,IRRBIOER Index_0,0.650278807,0.650278807,IRRBIOER Index,0,jf_data.eco_nav,1,2,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,IRRBIOER Index_20,0.586469116,0.586469116,IRRBIOER Index,20,jf_data.eco_nav,2,3,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,TUBRLLWL Index_120,-0.399870746,0.399870746,TUBRLLWL Index,120,jf_data.eco_nav,1,13,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,SWRRATEI Index_250,0.352171556,0.352171556,SWRRATEI Index,250,jf_data.eco_nav,1,18,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,ARNCNINX Index_250,-0.413151028,0.413151028,ARNCNINX Index,250,jf_data.eco_nav,1,12,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,CAHEPERM Index_120,-0.431442424,0.431442424,CAHEPERM Index,120,jf_data.eco_nav,1,9,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,CHHEAVGM Index_90,-0.354883529,0.354883529,CHHEAVGM Index,90,jf_data.eco_nav,2,17,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,CHHEAVGM Index_120,-0.432288013,0.432288013,CHHEAVGM Index,120,jf_data.eco_nav,1,8,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,SWGDPWYY Index_250,-0.37785783,0.37785783,SWGDPWYY Index,250,jf_data.eco_nav,1,15,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,NABSCONF Index_44,-0.347279261,0.347279261,NABSCONF Index,44,jf_data.eco_nav,1,20,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,CPMICOMP Index_250,-0.701160306,0.701160306,CPMICOMP Index,250,jf_data.eco_nav,1,1,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,ARC6INDY Index_90,-0.419937698,0.419937698,ARC6INDY Index,90,jf_data.eco_nav,1,10,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,TUES01EU Index_44,-0.418796263,0.418796263,TUES01EU Index,44,jf_data.eco_nav,1,11,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,CNUESRU Index_90,-0.547207934,0.547207934,CNUESRU Index,90,jf_data.eco_nav,1,5,成熟亚洲股票,富时发达国家亚太所有市值指数
+ACDPAC Index,EURPLN Curncy_0,0.302904354,0.302904354,EURPLN Curncy,0,jf_data.index_ohlcv_pe,1,1,成熟亚洲股票,富时发达国家亚太所有市值指数
+H05411US Index,ARPP7DRR Index_0,0.522509471,0.522509471,ARPP7DRR Index,0,jf_data.eco_nav,2,7,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,ARPP7DRR Index_250,-0.524425541,0.524425541,ARPP7DRR Index,250,jf_data.eco_nav,1,6,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,IDBIRRPO Index_120,0.477936628,0.477936628,IDBIRRPO Index,120,jf_data.eco_nav,2,19,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,IDBIRRPO Index_250,0.502484132,0.502484132,IDBIRRPO Index,250,jf_data.eco_nav,1,13,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,ARNCYINX Index_44,-0.589873949,0.589873949,ARNCYINX Index,44,jf_data.eco_nav,1,1,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,MPMIGBMA Index_44,-0.489475497,0.489475497,MPMIGBMA Index,44,jf_data.eco_nav,1,15,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,GRIFPEX Index_120,-0.49929476,0.49929476,GRIFPEX Index,120,jf_data.eco_nav,1,14,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,IRRBIOER Index_44,-0.551449384,0.551449384,IRRBIOER Index,44,jf_data.eco_nav,1,5,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,GDP PIQQ Index_44,0.516756121,0.516756121,GDP PIQQ Index,44,jf_data.eco_nav,1,12,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,GDP PIQQ Index_120,-0.484880936,0.484880936,GDP PIQQ Index,120,jf_data.eco_nav,2,17,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,CAHEPERM Index_120,-0.519542249,0.519542249,CAHEPERM Index,120,jf_data.eco_nav,1,10,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,CHHEAVGM Index_90,-0.563041624,0.563041624,CHHEAVGM Index,90,jf_data.eco_nav,1,3,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,CNPRETLY Index_250,0.519837651,0.519837651,CNPRETLY Index,250,jf_data.eco_nav,1,9,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,FRCPEECY Index_120,0.4716176,0.4716176,FRCPEECY Index,120,jf_data.eco_nav,1,20,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,CPMICOMP Index_120,-0.521222103,0.521222103,CPMICOMP Index,120,jf_data.eco_nav,1,8,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,UKAPTARG Index_90,-0.480268897,0.480268897,UKAPTARG Index,90,jf_data.eco_nav,1,18,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,ARC6INDY Index_0,0.486249245,0.486249245,ARC6INDY Index,0,jf_data.eco_nav,1,16,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,TUES01EU Index_0,0.561900582,0.561900582,TUES01EU Index,0,jf_data.eco_nav,1,4,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,CNUESRU Index_44,-0.586620471,0.586620471,CNUESRU Index,44,jf_data.eco_nav,1,2,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,JWEXOVSA Index_250,-0.519301499,0.519301499,JWEXOVSA Index,250,jf_data.eco_nav,1,11,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,SOX Index_44,-0.354409611,0.354409611,SOX Index,44,jf_data.index_ohlcv_pe,1,14,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,OSEBX Index_44,-0.351695129,0.351695129,OSEBX Index,44,jf_data.index_ohlcv_pe,1,16,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,OBX Index_44,-0.349774338,0.349774338,OBX Index,44,jf_data.index_ohlcv_pe,1,20,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,ATX Index_44,-0.391124778,0.391124778,ATX Index,44,jf_data.index_ohlcv_pe,1,3,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,AXX Index_44,-0.404243978,0.404243978,AXX Index,44,jf_data.index_ohlcv_pe,1,2,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,SMX Index_44,-0.381160038,0.381160038,SMX Index,44,jf_data.index_ohlcv_pe,1,4,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,BWORLD Index_44,-0.350627897,0.350627897,BWORLD Index,44,jf_data.index_ohlcv_pe,1,18,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,MXWOSC Index_44,-0.350527844,0.350527844,MXWOSC Index,44,jf_data.index_ohlcv_pe,1,19,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,AIM100 Index_44,-0.417680713,0.417680713,AIM100 Index,44,jf_data.index_ohlcv_pe,1,1,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,MXCA Index_44,-0.350836267,0.350836267,MXCA Index,44,jf_data.index_ohlcv_pe,1,17,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,SMXX Index_44,-0.370111659,0.370111659,SMXX Index,44,jf_data.index_ohlcv_pe,1,6,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,QNET Index_44,-0.360387398,0.360387398,QNET Index,44,jf_data.index_ohlcv_pe,1,10,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,OSEFX Index_44,-0.353958956,0.353958956,OSEFX Index,44,jf_data.index_ohlcv_pe,1,15,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,DJINET Index_44,-0.364004587,0.364004587,DJINET Index,44,jf_data.index_ohlcv_pe,1,7,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,LG30TRUU Index_44,-0.356733102,0.356733102,LG30TRUU Index,44,jf_data.index_ohlcv_pe,1,12,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,LF98TRUU Index_44,-0.363906723,0.363906723,LF98TRUU Index,44,jf_data.index_ohlcv_pe,1,8,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,IBOXHY Index_44,-0.359191363,0.359191363,IBOXHY Index,44,jf_data.index_ohlcv_pe,1,11,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,SPBDLLB Index_44,-0.374012667,0.374012667,SPBDLLB Index,44,jf_data.index_ohlcv_pe,1,5,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,LF89TRUU Index_44,-0.362827974,0.362827974,LF89TRUU Index,44,jf_data.index_ohlcv_pe,1,9,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+H05411US Index,HFRXGL Index_44,-0.355570577,0.355570577,HFRXGL Index,44,jf_data.index_ohlcv_pe,1,13,成熟亚洲债券,Bloomberg Barclays Asian-Pacific Aggregate Index
+BCOM Index,ARPP7DRR Index_0,-0.357796939,0.357796939,ARPP7DRR Index,0,jf_data.eco_nav,1,19,大宗商品,Bloomberg Commodity Index
+BCOM Index,PRUSTOT Index_120,0.36228907,0.36228907,PRUSTOT Index,120,jf_data.eco_nav,1,17,大宗商品,Bloomberg Commodity Index
+BCOM Index,UKHBSAMM Index_250,-0.454177934,0.454177934,UKHBSAMM Index,250,jf_data.eco_nav,1,6,大宗商品,Bloomberg Commodity Index
+BCOM Index,IDGDPY Index_90,0.421114491,0.421114491,IDGDPY Index,90,jf_data.eco_nav,1,8,大宗商品,Bloomberg Commodity Index
+BCOM Index,IDGDPY Index_120,0.404795596,0.404795596,IDGDPY Index,120,jf_data.eco_nav,2,9,大宗商品,Bloomberg Commodity Index
+BCOM Index,IRRBIOER Index_0,0.783072401,0.783072401,IRRBIOER Index,0,jf_data.eco_nav,1,1,大宗商品,Bloomberg Commodity Index
+BCOM Index,IRRBIOER Index_44,0.508071954,0.508071954,IRRBIOER Index,44,jf_data.eco_nav,2,4,大宗商品,Bloomberg Commodity Index
+BCOM Index,IDBIRATE Index_44,-0.388841996,0.388841996,IDBIRATE Index,44,jf_data.eco_nav,1,11,大宗商品,Bloomberg Commodity Index
+BCOM Index,AULFUNEM Index_120,-0.402109918,0.402109918,AULFUNEM Index,120,jf_data.eco_nav,1,10,大宗商品,Bloomberg Commodity Index
+BCOM Index,TUBRLLWL Index_20,-0.35640544,0.35640544,TUBRLLWL Index,20,jf_data.eco_nav,1,20,大宗商品,Bloomberg Commodity Index
+BCOM Index,SWRRATEI Index_250,0.44659689,0.44659689,SWRRATEI Index,250,jf_data.eco_nav,1,7,大宗商品,Bloomberg Commodity Index
+BCOM Index,UKHB3MYR Index_250,0.385872846,0.385872846,UKHB3MYR Index,250,jf_data.eco_nav,1,13,大宗商品,Bloomberg Commodity Index
+BCOM Index,CHHEAVGM Index_120,-0.585771258,0.585771258,CHHEAVGM Index,120,jf_data.eco_nav,1,3,大宗商品,Bloomberg Commodity Index
+BCOM Index,KOGDPYOY Index_120,0.365476691,0.365476691,KOGDPYOY Index,120,jf_data.eco_nav,2,16,大宗商品,Bloomberg Commodity Index
+BCOM Index,KOGDPYOY Index_250,0.385108081,0.385108081,KOGDPYOY Index,250,jf_data.eco_nav,1,14,大宗商品,Bloomberg Commodity Index
+BCOM Index,IDIFCRIY Index_250,-0.359982499,0.359982499,IDIFCRIY Index,250,jf_data.eco_nav,1,18,大宗商品,Bloomberg Commodity Index
+BCOM Index,CNUESRU Index_90,-0.717216945,0.717216945,CNUESRU Index,90,jf_data.eco_nav,1,2,大宗商品,Bloomberg Commodity Index
+BCOM Index,JWCOOVSA Index_120,0.387698624,0.387698624,JWCOOVSA Index,120,jf_data.eco_nav,1,12,大宗商品,Bloomberg Commodity Index
+BCOM Index,LEGATRUU Index_120,0.310525673,0.310525673,LEGATRUU Index,120,jf_data.index_ohlcv_pe,1,7,大宗商品,Bloomberg Commodity Index
+BCOM Index,LC07TRUU Index_120,0.301639507,0.301639507,LC07TRUU Index,120,jf_data.index_ohlcv_pe,1,11,大宗商品,Bloomberg Commodity Index
+BCOM Index,IBOXIG Index_120,0.317705177,0.317705177,IBOXIG Index,120,jf_data.index_ohlcv_pe,1,5,大宗商品,Bloomberg Commodity Index
+BCOM Index,LF97TRUU Index_120,0.332923159,0.332923159,LF97TRUU Index,120,jf_data.index_ohlcv_pe,1,2,大宗商品,Bloomberg Commodity Index
+BCOM Index,LUCRTRUU Index_120,0.301159497,0.301159497,LUCRTRUU Index,120,jf_data.index_ohlcv_pe,1,12,大宗商品,Bloomberg Commodity Index
+BCOM Index,LD06TRUU Index_90,0.302855344,0.302855344,LD06TRUU Index,90,jf_data.index_ohlcv_pe,2,9,大宗商品,Bloomberg Commodity Index
+BCOM Index,LD06TRUU Index_120,0.309936301,0.309936301,LD06TRUU Index,120,jf_data.index_ohlcv_pe,1,8,大宗商品,Bloomberg Commodity Index
+BCOM Index,I17660US Index_120,0.315277701,0.315277701,I17660US Index,120,jf_data.index_ohlcv_pe,1,6,大宗商品,Bloomberg Commodity Index
+BCOM Index,EMLCOAS Index_0,-0.301892229,0.301892229,EMLCOAS Index,0,jf_data.index_ohlcv_pe,1,10,大宗商品,Bloomberg Commodity Index
+BCOM Index,CLP Curncy_120,-0.324175664,0.324175664,CLP Curncy,120,jf_data.index_ohlcv_pe,1,4,大宗商品,Bloomberg Commodity Index
+BCOM Index,PHP Curncy_120,-0.332003242,0.332003242,PHP Curncy,120,jf_data.index_ohlcv_pe,1,3,大宗商品,Bloomberg Commodity Index
+BCOM Index,KO1 Comdty_90,0.340253741,0.340253741,KO1 Comdty,90,jf_data.index_ohlcv_pe,1,1,大宗商品,Bloomberg Commodity Index
