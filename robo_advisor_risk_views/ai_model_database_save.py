@@ -83,7 +83,7 @@ def load_from_database(zipfile_name,connection,to_path):
 if __name__ == '__main__':
     file_name = 'check_point'
 
-    connection = create_engine('mysql+pymysql://'+'jdc'+':'+'dVconDz6QU2T8DY1'+'@'+'thiztech.clu1dvvlioyf.ap-northeast-1.rds.amazonaws.com:3306/ra_fttw')
+    connection = create_engine('mysql+pymysql://' + os.environ['MYSQL_USER'] + ':' + os.environ['MYSQL_PASSWORD'] + '@' + os.environ['MYSQL_HOST'] + ':' + os.environ['MYSQL_PORT']+'/ra_fttw')
     from_path = os.getcwd()+'/new/new1'
     to_path = os.getcwd()+'/new/new1/check_point'
 

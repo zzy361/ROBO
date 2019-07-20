@@ -10,8 +10,6 @@ import sys
 import logging
 
 aws='mysql+pymysql://'+os.environ['MYSQL_USER']+':'+os.environ['MYSQL_PASSWORD']+'@'+os.environ['MYSQL_HOST']+':'+os.environ['MYSQL_PORT']
-
-aliyun='mysql+pymysql://tommy:tommy@wei@rm-uf679020c6vrt28in7o.mysql.rds.aliyuncs.com:3306'
 conn=aws
 
 class  LongShort_Indicator():
