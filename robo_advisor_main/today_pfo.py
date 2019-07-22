@@ -88,6 +88,12 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
         elif int(rebalance_out[rebalance_out['poc_name'] == poc]['rebalance_signal'].values[0]) > 0:
             today_pfo = daily_out[daily_out['poc_name'] == poc]
             today_pfo['comment'] = 'rebalance: ' + rebalance_out[rebalance_out['poc_name'] == poc]['rebalance_comment'].values[0]
+        else:
+            today_pfo = trade_record_nav[trade_record_nav['poc_name'] == poc]
+            try:
+                today_pfo['comment'] = int(trade_record[trade_record['poc_name'] == poc]['comment'].values[0]) + 1
+            except:
+                today_pfo['comment'] = 0
     else:
         today_pfo = trade_record_nav[trade_record_nav['poc_name'] == poc]
         try:
