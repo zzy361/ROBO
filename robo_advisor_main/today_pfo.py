@@ -79,7 +79,7 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
         pass
 
     if isinstance(tmp['comment'].values[0], str) == False and tmp['comment'].values[0] >= g.blackwindow:
-        if datetime.today().date().month % 3 == 1 and datetime.today().date().day == 1:
+        if datetime.today().date().month % 3 == 1 and datetime.today().date().day == 19:
             today_pfo = daily_out[daily_out['poc_name'] == poc]
             today_pfo['comment'] = 'quartly'
         elif int(risk_rules_out[risk_rules_out['poc_name'] == poc]['risk_signal'].values[0]) > 0:
