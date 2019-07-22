@@ -57,8 +57,8 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     temp = temp[~temp['comment'].isin(list(map(str, list(range(16)))))]
     temp.sort_values('trade_date', ascending=False, inplace=True)
     last_swap_date = temp['trade_date'].values[0]
-    nav = nav[nav.index >= last_swap_date]
-    rtn0 = pd.DataFrame(nav.iloc[-1, :] / nav.iloc[0, :])
+    nav1 = nav[nav.index >= last_swap_date]
+    rtn0 = pd.DataFrame(nav1.iloc[-1, :] / nav1.iloc[0, :])
     last_swap_trade_record = temp[(temp['poc_name']==poc)&(temp['trade_date']==last_swap_date)]
     last_swap_trade_record = pd.merge(last_swap_trade_record, rtn0, left_on='asset_ids', right_index=True, how='inner')
     last_swap_trade_record.columns = ['poc_name', 'asset_ids', 'trade_date', 'weight', 'comment', 'rtn']
