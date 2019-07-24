@@ -67,7 +67,7 @@ for risk in ['low','mid','high']:
     cvar_dict['rtn_matrix'] = anual_rtn.values
     cvar_dict['alpha'] = 0.26
     cvar_dict['beta'] = 1.7
-    cvar_dict['expected_cvar'] = 0.007
+    cvar_dict['expected_cvar'] = -0.05
     asset_cons={'list': [], 'indices': [], 'lb': [], 'ub': [],'n_min':[],'n_max':[]}
 
     asset_cons['list']=list(cons.keys())

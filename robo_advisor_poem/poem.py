@@ -61,7 +61,7 @@ def mvo(id_list,rtn,vol,rho,percent_list,num_min,num_max,low_b,up_b,asset_cons={
 
     opt = SolverFactory('Bonmin', executable=os.path.dirname(os.path.realpath(__file__))+'/bonmin')
 
-    opt.options['tol'] = 1E-5
+    opt.options['tol'] = 1E-2
 
     model.objective = Objective(expr=sum([model.z[i]*model.z[j]*model.w[i]*model.w[j]*sigma.iloc[i,j] for i in model.indices for j in model.indices]), sense=minimize)
     opt.solve(model)

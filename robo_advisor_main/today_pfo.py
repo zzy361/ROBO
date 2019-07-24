@@ -54,7 +54,7 @@ trade_record.columns = ['poc_name', 'asset_ids', 'trade_date', 'weight', 'commen
 trade_record_nav = pd.DataFrame(columns=['poc_name', 'asset_ids', 'trade_date', 'weight_new', 'comment'])
 for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     temp = temp1[temp1['poc_name'] == poc]
-    temp = temp[~temp['comment'].isin(list(map(str, list(range(16)))))]
+    temp = temp[~temp['comment'].isin(list(map(str, list(range(200)))))]
     temp.sort_values('trade_date', ascending=False, inplace=True)
     last_swap_date = temp['trade_date'].values[0]
     nav1 = nav[nav.index >= last_swap_date]
