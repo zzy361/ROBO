@@ -52,6 +52,7 @@ for risk in ['low','mid','high']:
         per_list = [0.6, 0.75, 0.85]
 
     nav=nav.sort_index()
+    nav.dropna(how='any', inplace=True)
     print(nav.shape)
     rtn_matrix=(nav/nav.shift(20)-1)
     rtn=list(rtn_matrix.mean()*12)
