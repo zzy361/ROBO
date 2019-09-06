@@ -142,4 +142,4 @@ class multifactor_asset():
 c=multifactor_asset()
 df_result,df_sql_riskorigin,df_sql_riskinfo= c.run_ols()
 c.df_to_sql( df_sql_riskorigin, str_name='risk_origin', srt_schema='ra_fttw')
-c.df_to_sql( df_sql_riskinfo, str_name='risk_info', srt_schema='jf_jrm')
+# c.df_to_sql( df_sql_riskinfo, str_name='risk_info', srt_schema='jf_jrm')
