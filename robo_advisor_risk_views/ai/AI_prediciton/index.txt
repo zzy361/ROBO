@@ -1,3 +1,0 @@
-cd F:\Backtest_2018\AI_Prediction\
-F:
-python F:\Backtest_2018\AI_Prediction\index_predict.py
