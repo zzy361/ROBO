@@ -124,7 +124,7 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     create_date = datetime.today().strftime("%Y-%m-%d %H:%M:%S")
     dict1 = []
     for i in tmp.index:
-        dict1.append({"fund_id": str(tmp.loc[i, 'asset_ids']), "weight": str(int(tmp.loc[i, 'weight'] * 100))})
+        dict1.append({"fund_id": str(tmp.loc[i, 'asset_ids']), "weight": str(int(round(tmp.loc[i, 'weight'] * 100)))})
     dict.append({"recomm_guid": str(recomm_guid),
                  "data": {"recomm_guid": str(recomm_guid), "data_date": str(data_date), "roi": roi, "risk": risk, "cp": cp, "rr": rr, "creat_date": str(create_date),
                           "funds": dict1}})
