@@ -119,6 +119,7 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     risk = round(g.vol[j], 2)
     cp = round(roi / risk, 2)
     tmp = pfo_rr[pfo_rr['poc_name'] == poc]
+    # rr = round((tmp['weight'] * tmp['FT_TW_RISK']).sum())
     rr = round((tmp['weight'] * tmp['FT_TW_RISK']).sum(), 2)
     create_date = datetime.today().strftime("%Y-%m-%d %H:%M:%S")
     dict1 = []

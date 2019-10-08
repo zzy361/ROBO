@@ -9,6 +9,11 @@ g.init()
 
 @log_email()
 def main():
+    try:
+        # 数据是否更新
+        pass
+    except:
+        pass
     import today_pfo
 
 try:
