@@ -66,8 +66,8 @@ class risk_ruler:
         """
         latest_trading_record = trading_record[trading_record['trade_date'] == trading_record['trade_date'].values[-1]]
         latest_trading_fund = latest_trading_record['asset_ids'].tolist()
-        big_asset_list = fund_info[fund_info['Bloomberg_Ticker'].isin(latest_trading_fund)]['Category'].values
-        big_asset_list = np.append(big_asset_list,added_big_asset)
+        big_asset_list = fund_info[fund_info['FT_Ticker'].isin(latest_trading_fund)]['Category'].values
+        big_asset_list = np.append(big_asset_list, added_big_asset)
         big_asset_list = list(np.unique(big_asset_list))
         return big_asset_list
 

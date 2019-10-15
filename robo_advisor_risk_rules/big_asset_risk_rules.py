@@ -22,7 +22,7 @@ def risk_main():
     para_table_name = 'ra_para'
     risk_date = datetime.today()
     risk_ruler_obj = risk_ruler()
-    poc_list = ['ft'+str(i) for i in range(1,10)]
+    poc_list = ['ft'+str(i) for i in range(1, 10)]
     for i in poc_list:
         risk_ruler_obj.risk_signal(added_big_asset=added_big_asset, fund_info=fund_info,
                                    trading_record=trading_record, con=con, risk_table_name=risk_table_name,
