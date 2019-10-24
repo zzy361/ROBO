@@ -15,7 +15,7 @@ conn.execute("delete from ra_fttw.trading_record where trade_date>=" + today_str
 conn.execute("delete from ra_fttw.trading_record_json where trade_date>=" + today_str)
 conn.close()
 
-risk_day = (datetime.today().date() - relativedelta(days=90)).strftime('%Y%m%d')
+risk_day = (datetime.today().date() - relativedelta(days=120)).strftime('%Y%m%d')
 
 risk_rules_out = pd.read_sql('select risk_date,poc_name,risk_signal,risk_comment from ra_fttw.risk_rules_out where risk_date>=' + risk_day, con=g.db)
 risk_rules_out['risk_date'] = pd.to_datetime(risk_rules_out['risk_date'])
@@ -103,6 +103,7 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     today_pfo_out = pd.concat([today_pfo_out, today_pfo])
 
 today_pfo_out['trade_date'] = datetime.today().date()
+
 today_pfo_out.to_sql('trading_record', if_exists='append', schema='ra_fttw', con=g.db, index=False)
 
 info = pd.read_sql_table('asset_pool', con=g.db, schema='ra_fttw')
