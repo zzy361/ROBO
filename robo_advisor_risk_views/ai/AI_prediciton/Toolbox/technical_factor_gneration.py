@@ -6,7 +6,7 @@ from sklearn import svm
 import pandas as pd
 import datetime
 
-from pandas_datareader import data as web
+# from pandas_datareader import data as web
 import datetime as dt
 from sklearn import preprocessing
 

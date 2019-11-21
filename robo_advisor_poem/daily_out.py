@@ -14,8 +14,8 @@ conn=g.db.connect()
 conn.execute("delete from ra_fttw.poem_daily_out where trade_date>="+today_str)
 conn.close()
 
-info=pd.read_sql_table('asset_pool',con=g.db,schema='ra_fttw')
-info=info[info['RR_ours']>0]
+info=pd.read_sql_table('fund_global_info',con=g.db,schema='jf_data')
+info=info[info['FT_TW_Taipei']>0]
 
 fundlist=str(tuple(list(info['FT_Ticker'])))
 pre_day=datetime.today().date()-relativedelta(days=g.days)
@@ -36,19 +36,20 @@ risk_info.index = risk_info['asset_name']
 df=pd.DataFrame(columns=['id'])
 for risk in ['low','mid','high']:
     if risk=='low':
-        fundlist=list(info[info['RR_ours'].isin([1,2,3])]['FT_Ticker'])
+        fundlist=list(info[info['FT_TW_RISK'].isin([1,2,3])]['FT_Ticker'])
         nav=nav0[fundlist]
-        cons=up_bound_cal(list(info[info['RR_ours'].isin([1,2,3])]['Category']),risk_info)
+        cons=up_bound_cal(list(info[info['FT_TW_RISK'].isin([1,2,3])]['Category']),risk_info)
+        print(cons)
         per_list=[0.2,0.3,0.4]
     elif risk=='mid':
-        fundlist=list(info[info['RR_ours'].isin([2,3,4])]['FT_Ticker'])
+        fundlist=list(info[info['FT_TW_RISK'].isin([2,3,4])]['FT_Ticker'])
         nav=nav0[fundlist]
-        cons = up_bound_cal(list(info[info['RR_ours'].isin([2,3,4])]['Category']),risk_info)
+        cons = up_bound_cal(list(info[info['FT_TW_RISK'].isin([2,3,4])]['Category']),risk_info)
         per_list=[0.5,0.6,0.7]
     elif risk=='high':
-        fundlist = list(info[info['RR_ours'].isin([2, 3, 4,5])]['FT_Ticker'])
+        fundlist = list(info[info['FT_TW_RISK'].isin([2, 3, 4,5])]['FT_Ticker'])
         nav=nav0[fundlist]
-        cons = up_bound_cal(list(info[info['RR_ours'].isin([2,3,4,5])]['Category']),risk_info)
+        cons = up_bound_cal(list(info[info['FT_TW_RISK'].isin([2,3,4,5])]['Category']),risk_info)
         per_list = [0.6, 0.75, 0.85]
 
     nav=nav.sort_index()

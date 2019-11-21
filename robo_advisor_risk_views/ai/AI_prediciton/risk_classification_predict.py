@@ -15,6 +15,7 @@ from sqlalchemy import create_engine
 from keras.models import load_model
 from sklearn import preprocessing
 from keras import backend as k
+conn = create_engine('mysql+pymysql://'+os.environ['MYSQL_USER']+':'+os.environ['MYSQL_PASSWORD']+'@'+os.environ['MYSQL_HOST']+':'+os.environ['MYSQL_PORT']+'/jf_data?charset=utf8')
 
 import pymysql.cursors
 import datetime
@@ -90,7 +91,6 @@ def write_to_sql(df_prediction, big_asset_index_name, df_risk_info, con, databas
 
 
 def daily_predict(index_name, index_data, macro_data,history_window, predict_length, batch_size, epoch, class_num):
-
     if index_data.shape[1] != 1:
         feature_data = get_feature_data(index_name=index_name, index_data=index_data,macro_data=macro_data)
     else:
@@ -99,6 +99,8 @@ def daily_predict(index_name, index_data, macro_data,history_window, predict_len
 
     feature_data.replace(np.inf, np.nan, inplace=True)
     feature_data.dropna(axis=0, how='any', inplace=True)
+    print('feature shape', feature_data.shape)
+    print(feature_data.index[-1])
     if os.access('./check_point/' + index_name + '_saved_model.h5', os.F_OK):
         model = load_model('./check_point/' + index_name + '_saved_model.h5')
         new_batch = feature_data.iloc[-(history_window + predict_length):, :-1]
@@ -231,7 +233,7 @@ sqlasset1 = "SELECT " + '*' + " FROM " + db_name_ra
 df_risk_info = pd.read_sql(sqlasset1, con=conn_ra)
 
 batch_size = 100
-epoch = 30
+epoch = 3
 prediction_result = {}
 table_name1='index_ohlcv_pe'
 table_name2='eco_nav'
@@ -254,7 +256,7 @@ else:
 
 for i in all_index: 
     print(i)
-    if i in total_index_list:
+    if i in total_index_list and os.access('./check_point/' + i + '_saved_model.h5', os.F_OK):
         index_data = original_data[original_data['bloomberg_ticker'] == i]
         del index_data['bloomberg_ticker']
         index_data.index = index_data['nav_date']
@@ -268,10 +270,15 @@ for i in all_index:
             index_data = close
             index_data.columns=['Close']
         macro_index_data_temp = macro_index_data_daily[asset_macro_factor[i]['macro_index']]
+
         macro_factor_data_temp= macro_factor_data_daily[asset_macro_factor[i]['macro_factor']]
         macro_data_temp = pd.merge(left=macro_index_data_temp, right=macro_factor_data_temp, how='outer', left_index=True,right_index=True)
         macro_data_temp.fillna(method='ffill', inplace=True)
         macro_data_temp.fillna(method='bfill', inplace=True)
+        print(index_data.shape)
+        print(macro_index_data_temp.shape)
+        print(macro_factor_data_temp.shape)
+        print(macro_data_temp.shape)
 
         predict_value = daily_predict(index_name=i, index_data=index_data, macro_data=macro_data_temp,history_window=100, predict_length=20,
                                       batch_size=batch_size, epoch=epoch, class_num=class_num)

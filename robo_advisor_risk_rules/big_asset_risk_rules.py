@@ -25,7 +25,7 @@ def risk_main():
     poc_list = ['ft'+str(i) for i in range(1, 10)]
     for i in poc_list:
         risk_ruler_obj.risk_signal(added_big_asset=added_big_asset, fund_info=fund_info,
-                                   trading_record=trading_record, con=con, risk_table_name=risk_table_name,
+                                   trading_record=trading_record[trading_record['poc_name']==i], con=con, risk_table_name=risk_table_name,
                                    final_risk_table_name=final_risk_table_name, para_table_name=para_table_name,
                                    risk_date=risk_date, poc_name=i)
 

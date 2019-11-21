@@ -2,6 +2,7 @@ import pandas as pd
 from datetime import datetime
 from sqlalchemy import create_engine
 import numpy as np
+import copy
 class risk_ruler:
     """
     风控规则类
@@ -26,7 +27,11 @@ class risk_ruler:
         """
         sql = "select * from " + risk_table_name
         original_data = pd.read_sql(sql=sql, con=con)
-        former_trading_date = trading_record['trade_date'].values[-1]
+        temp = copy.deepcopy(trading_record)
+        temp = temp[~temp['comment'].isin(list(map(str, list(range(160)))))]
+        temp.sort_values('trade_date', ascending=False, inplace=True)
+        former_trading_date = temp['trade_date'].values[0]
+
         latest_risk_data = original_data[original_data['risk_date'] == original_data['risk_date'].values[-1]]
         latest_risk_data = latest_risk_data[latest_risk_data['asset_name'].isin(big_asset_list)]
         latest_risk_data.index = latest_risk_data['asset_name']

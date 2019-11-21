@@ -77,6 +77,8 @@ def mvo(id_list,rtn,vol,rho,percent_list,num_min,num_max,low_b,up_b,asset_cons={
     results={}
     for k in percent_list:
         print(k)
+        print('!!!!!')
+        print(min_rtn+k*(max_rtn-min_rtn))
         model.cons_rtn = Constraint(expr=sum([model.w[i] * model.z[i] * rtn[i] for i in model.indices]) == min_rtn+k*(max_rtn-min_rtn))
         model.objective = Objective(expr=sum([model.z[i]*model.z[j]*model.w[i]*model.w[j]*sigma.iloc[i,j] for i in model.indices for j in model.indices]), sense=minimize)
 

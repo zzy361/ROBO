@@ -66,7 +66,7 @@ class RebalanceTest():
             report["poc_name"].append(it)
             temp = copy.deepcopy(self.trading_records)
             temp = temp[temp['poc_name'] == it]
-            temp = temp[~temp['comment'].isin(list(map(str,list(range(16)))))]
+            temp = temp[~temp['comment'].isin(list(map(str,list(range(160)))))]
             temp.sort_values('trade_date',ascending=False,inplace=True)
             last_swap_date = temp['trade_date'].values[0]
             print(last_swap_date)
@@ -74,12 +74,12 @@ class RebalanceTest():
                 (self.trading_records['trade_date'] == s) & (self.trading_records['poc_name'] == it)]
             tem_poem_daily_out = self.trading_records[
                 (self.trading_records['trade_date'] == last_swap_date) & (self.trading_records['poc_name'] == it)]
-            print(tem_trading_records)
-            print(tem_poem_daily_out)
+            # print(tem_trading_records)
+            # print(tem_poem_daily_out)
             trading_report = self.drift_band(tem_trading_records)
-            print(trading_report)
+            # print(trading_report)
             poem_report = self.drift_band(tem_poem_daily_out)
-            print(poem_report)
+            # print(poem_report)
 
             temdrifts = (abs(trading_report["stock"] - poem_report["stock"]) + abs(
                 trading_report["bond"] - poem_report["bond"])) / 2
@@ -90,6 +90,7 @@ class RebalanceTest():
             merge_data.fillna(0, inplace=True)
             merge_data['drift'] = abs(merge_data['weight_y'] - merge_data['weight_x'])
             tem_drift = merge_data['drift'].sum()/2
+            print(it,tem_drift)
             comments = str()
             tem_rebalance_signal = str()
 
@@ -99,8 +100,8 @@ class RebalanceTest():
                 comments = 'drift {0} > {1}'.format(tem_drift, self.risk_level[it])
                 if temdrifts >= self.risk_level[it]:
                     tt = ' &&  stock bond drift {0} > 0.05'.format(temdrifts)
-                    comments += tt
-                    tem_rebalance_signal += str(2)
+                    # comments += tt
+                    # tem_rebalance_signal += str(2)
                 report['rebalance_comment'].append(comments)
                 report['rebalance_signal'].append(tem_rebalance_signal)
             else:

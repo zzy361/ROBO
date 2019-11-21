@@ -9,7 +9,9 @@ from weight_1 import weight_1
 import json
 import numpy as np
 import copy
+import note
 today_str = (datetime.today().date()).strftime('%Y%m%d')
+
 conn = g.db.connect()
 conn.execute("delete from ra_fttw.trading_record where trade_date>=" + today_str)
 conn.execute("delete from ra_fttw.trading_record_json where trade_date>=" + today_str)
@@ -103,9 +105,7 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     today_pfo_out = pd.concat([today_pfo_out, today_pfo])
 
 today_pfo_out['trade_date'] = datetime.today().date()
-
 today_pfo_out.to_sql('trading_record', if_exists='append', schema='ra_fttw', con=g.db, index=False)
-
 info = pd.read_sql_table('asset_pool', con=g.db, schema='ra_fttw')
 pfo_rr = pd.merge(today_pfo_out, info[['FT_Ticker', 'FT_TW_RISK']], left_on='asset_ids', right_on='FT_Ticker', how='left')
 
@@ -126,12 +126,10 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     dict1 = []
     for i in tmp.index:
         dict1.append({"fund_id": str(tmp.loc[i, 'asset_ids']), "weight": str(int(round(tmp.loc[i, 'weight'] * 100)))})
-    dict.append({"recomm_guid": str(recomm_guid),
-                 "data": {"recomm_guid": str(recomm_guid), "data_date": str(data_date), "roi": roi, "risk": risk, "cp": cp, "rr": rr, "creat_date": str(create_date),
-                          "funds": dict1}})
+    dict.append({"recomm_guid": str(recomm_guid),"data": {"recomm_guid": str(recomm_guid), "data_date": str(data_date), "roi": roi, "risk": risk, "cp": cp, "rr": rr, "creat_date": str(create_date),"funds": dict1, "note": note.note_pro()}})
     j += 1
 
-print(json.dumps(dict))
+print(json.dumps(dict, ensure_ascii=False))
 
-trade_record_json = pd.DataFrame([[datetime.today().date(), json.dumps(dict)]], columns=['trade_date', 'json'])
+trade_record_json = pd.DataFrame([[datetime.today().date(), json.dumps(dict, ensure_ascii=False)]], columns=['trade_date', 'json'])
 trade_record_json.to_sql('trading_record_json', if_exists='append', schema='ra_fttw', con=g.db, index=False)

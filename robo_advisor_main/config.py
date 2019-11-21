@@ -15,9 +15,10 @@ import os
 
 class g():
     def init(self):
-        self.days=60
+        self.days=90
 
         self.db=create_engine('mysql+pymysql://'+os.environ['MYSQL_USER']+':'+os.environ['MYSQL_PASSWORD']+'@'+os.environ['MYSQL_HOST']+':'+os.environ['MYSQL_PORT'])
+        # self.db = create_engine('mysql+pymysql://' + os.environ['MYSQL_USER'] + ':' + os.environ['MYSQL_PASSWORD'] + '@' + '47.103.16.188' + ':' + os.environ['MYSQL_PORT'])
         self.rtn = list(np.linspace(3, 8, 9))
         self.vol = list(np.linspace(3.7, 8.7, 9))
         self.blackwindow = 15
