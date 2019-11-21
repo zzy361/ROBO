@@ -39,7 +39,7 @@ for risk in ['low','mid','high']:
         fundlist=list(info[info['FT_TW_RISK'].isin([1,2,3])]['FT_Ticker'])
         nav=nav0[fundlist]
         cons=up_bound_cal(list(info[info['FT_TW_RISK'].isin([1,2,3])]['Category']),risk_info)
-        print(cons)
+        # print(cons)
         per_list=[0.2,0.3,0.4]
     elif risk=='mid':
         fundlist=list(info[info['FT_TW_RISK'].isin([2,3,4])]['FT_Ticker'])
@@ -54,7 +54,7 @@ for risk in ['low','mid','high']:
 
     nav=nav.sort_index()
     nav.dropna(how='any', inplace=True)
-    print(nav.shape)
+    # print(nav.shape)
     rtn_matrix=(nav/nav.shift(20)-1)
     rtn=list(rtn_matrix.mean()*12)
 
@@ -86,13 +86,13 @@ for risk in ['low','mid','high']:
 
     results.columns=[risk+'1',risk+'2',risk+'3']
     df=df.merge(results,how='outer',left_index=True,right_index=True)
-    print(df)
+    # print(df)
 
 df['id']=df.index
 
 out=pd.DataFrame(columns=['poc_name','asset_ids','trade_date','weight','comment'])
 for i in range(1,10):
-    print(i)
+    # print(i)
     tmp=df.iloc[:,[0,i]].dropna()
     tmp.columns=['asset_ids','weight']
     tmp['poc_name']='ft'+str(i)
