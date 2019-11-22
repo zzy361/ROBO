@@ -39,4 +39,5 @@ except:
     trade_record_json.to_sql('trading_record_json', if_exists='append', schema='ra_fttw', con=g.db, index=False)
 
     print(today_json)
+    print('done')
 
