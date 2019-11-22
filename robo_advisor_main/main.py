@@ -18,6 +18,7 @@ def main():
 
 try:
     main()
+    print('successful!!!!!')
 except:
     trade_day = (datetime.today().date() - relativedelta(days=120)).strftime('%Y%m%d')
     json = pd.read_sql('select trade_date,json from ra_fttw.trading_record_json where trade_date>=' + trade_day,
@@ -38,3 +39,4 @@ except:
     trade_record_json.to_sql('trading_record_json', if_exists='append', schema='ra_fttw', con=g.db, index=False)
 
     print(today_json)
+
