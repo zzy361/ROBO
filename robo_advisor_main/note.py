@@ -17,6 +17,7 @@ def note_pro():
     yesterday = (today - dateutil.relativedelta.relativedelta(days=1)).strftime('%Y-%m-%d')
     today = today.strftime('%Y-%m-%d')
 
+
     # 先抓出大类资产对应指数表
     risk_map = pd.DataFrame(pd.read_sql('Select asset_benchmark, asset_name, asset_name_english2, FT from ra_fttw.risk_map;', con=db))
     risk_map = risk_map[risk_map['FT'] == 1]
@@ -29,10 +30,13 @@ def note_pro():
     # 把多空系数整理成需要的格式
     def risk_control_pro(indicator, day):
         temp = pd.DataFrame()
+
         if day == 'today':
             temp = indicator[indicator['risk_date'] == today]
+            day = today
         elif day == 'yesterday':
             temp = indicator[indicator['risk_date'] == yesterday]
+            day = yesterday
         else: pass
         key = zip(temp['asset_name'], temp['asset_benchmark'])
         value = temp['risk']
@@ -74,4 +78,4 @@ def note_pro():
 
 if __name__ == '__main__':
     note_out = note_pro()
-    print(note_out)
+

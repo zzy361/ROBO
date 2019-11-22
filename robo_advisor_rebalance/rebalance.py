@@ -69,7 +69,7 @@ class RebalanceTest():
             temp = temp[~temp['comment'].isin(list(map(str,list(range(160)))))]
             temp.sort_values('trade_date',ascending=False,inplace=True)
             last_swap_date = temp['trade_date'].values[0]
-            print(last_swap_date)
+            # print(last_swap_date)
             tem_trading_records = self.trading_records[
                 (self.trading_records['trade_date'] == s) & (self.trading_records['poc_name'] == it)]
             tem_poem_daily_out = self.trading_records[
@@ -90,7 +90,7 @@ class RebalanceTest():
             merge_data.fillna(0, inplace=True)
             merge_data['drift'] = abs(merge_data['weight_y'] - merge_data['weight_x'])
             tem_drift = merge_data['drift'].sum()/2
-            print(it,tem_drift)
+            # print(it,tem_drift)
             comments = str()
             tem_rebalance_signal = str()
 
@@ -147,14 +147,14 @@ class RebalanceTest():
         """
 
         re = self.unperiod_rebalance()
-        print(re)
+        # print(re)
         rs = pd.DataFrame.from_dict(re)
         rs['iid'] = rs.index
         rs.drop(columns=['stock_bond_drift'],inplace=True)
         rs.to_sql(con=self.conns,name='rebalance_out',if_exists='append', index=False)
         rs.to_csv("result.csv",index=False)
-        print(rs.head())
+        # print(rs.head())
 
 c = RebalanceTest()
 c.load_para()
-print(c.test())
+# print(c.test())

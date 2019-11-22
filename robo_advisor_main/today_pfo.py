@@ -130,6 +130,5 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     j += 1
 
 # print(json.dumps(dict, ensure_ascii=False))
-
 trade_record_json = pd.DataFrame([[datetime.today().date(), json.dumps(dict, ensure_ascii=False)]], columns=['trade_date', 'json'])
 trade_record_json.to_sql('trading_record_json', if_exists='append', schema='ra_fttw', con=g.db, index=False)
