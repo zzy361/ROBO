@@ -18,7 +18,7 @@ def main():
 
 try:
     main()
-    print('successful!!!!!')
+
 except:
     trade_day = (datetime.today().date() - relativedelta(days=120)).strftime('%Y%m%d')
     json = pd.read_sql('select trade_date,json from ra_fttw.trading_record_json where trade_date>=' + trade_day,
@@ -27,8 +27,8 @@ except:
     today_json=json[json['trade_date'] == json['trade_date'].max()]['json'].values[0]
     today_json=eval(today_json)
     for tmp in today_json:
-        tmp['data']['data_date']=str(datetime.today().strftime("%Y-%m-%d 00:00:00"))
-        tmp['data']['creat_date']=str(datetime.today().strftime("%Y-%m-%d %H:%M:%S"))
+        tmp['data']['data_date']=str(datetime.today().strftime("%Y-%m-%d"))
+        tmp['data']['creat_date']=str(datetime.today().strftime("%Y-%m-%d"))
 
     today_str = (datetime.today().date()).strftime('%Y%m%d')
     conn = g.db.connect()
@@ -39,5 +39,4 @@ except:
     trade_record_json.to_sql('trading_record_json', if_exists='append', schema='ra_fttw', con=g.db, index=False)
 
     print(today_json)
-    print('done')
 
