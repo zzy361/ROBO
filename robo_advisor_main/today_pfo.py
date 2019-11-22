@@ -130,6 +130,6 @@ for poc in list(map(lambda x: 'ft' + x, [str(i) for i in list(range(1, 10))])):
     # dict.append({"recomm_guid": str(recomm_guid),"data": {"recomm_guid": str(recomm_guid), "data_date": str(data_date), "roi": roi, "risk": risk, "cp": cp, "rr": rr, "creat_date": str(create_date),"funds": dict1}})
     j += 1
 
-print(json.dumps(dict, ensure_ascii=False).encode('utf-8').decode('unicode_escape'))
+print(json.dumps(dict, ensure_ascii=False).encode('utf-8').decode('utf-8'))
 trade_record_json = pd.DataFrame([[datetime.today().date(), json.dumps(dict, ensure_ascii=False)]], columns=['trade_date', 'json'])
 trade_record_json.to_sql('trading_record_json', if_exists='append', schema='ra_fttw', con=g.db, index=False)
