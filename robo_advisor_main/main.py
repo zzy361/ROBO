@@ -1,6 +1,3 @@
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
 from log_email import log_email
 from config import g
 g.init()
