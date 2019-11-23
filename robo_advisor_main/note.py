@@ -14,7 +14,7 @@ def note_pro():
     # 初始化要抓的多空系数的日期
 
     today = datetime.datetime.today()
-    yesterday = (today - dateutil.relativedelta.relativedelta(days=1)).strftime('%Y-%m-%d')
+    yesterday = (today - dateutil.relativedelta.relativedelta(days=1)).strftime('%Y%m%d')
     today = today.strftime('%Y%m%d')
 
     # 先抓出大类资产对应指数表
