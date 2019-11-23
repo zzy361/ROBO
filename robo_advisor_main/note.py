@@ -15,22 +15,19 @@ def note_pro():
 
     today = datetime.datetime.today()
     yesterday = (today - dateutil.relativedelta.relativedelta(days=1)).strftime('%Y-%m-%d')
-    today = today.strftime('%Y-%m-%d')
-
+    today = today.strftime('%Y%m%d')
 
     # 先抓出大类资产对应指数表
     risk_map = pd.DataFrame(pd.read_sql('Select asset_benchmark, asset_name, asset_name_english2, FT from ra_fttw.risk_map;', con=db))
     risk_map = risk_map[risk_map['FT'] == 1]
     risk_map_list = str(tuple(risk_map['asset_benchmark'].unique().tolist()))
     risk_date = str(tuple([today, yesterday]))
-
     # 抓出相应的大类资产指数与时间的多空系数
     risk_indicator = pd.DataFrame(pd.read_sql('Select risk_date, asset_name, asset_benchmark, risk from ra_fttw.risk_out where asset_benchmark in '+ risk_map_list + 'and risk_date in' + risk_date + ';', con=db))
-
+    risk_indicator = risk_indicator.merge(risk_map, on=['asset_benchmark','asset_name'])
     # 把多空系数整理成需要的格式
     def risk_control_pro(indicator, day):
         temp = pd.DataFrame()
-
         if day == 'today':
             temp = indicator[indicator['risk_date'] == today]
             day = today
@@ -38,7 +35,7 @@ def note_pro():
             temp = indicator[indicator['risk_date'] == yesterday]
             day = yesterday
         else: pass
-        key = zip(temp['asset_name'], temp['asset_benchmark'])
+        key = zip(temp['asset_name_english2'], temp['asset_benchmark'])
         value = temp['risk']
         dict_out = {}
         dict_out.update(zip(key, value))
@@ -73,8 +70,7 @@ def note_pro():
 
     note = str({'last_reg_reb': last_reg_day, 'last_irreg_reb': last_irreg_day, 'risk_control':risk_control})
 
-
-    return json.dumps(note, ensure_ascii=False)
+    return note
 
 if __name__ == '__main__':
     note_out = note_pro()

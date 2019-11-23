@@ -147,14 +147,14 @@ class RebalanceTest():
         """
 
         re = self.unperiod_rebalance()
-        # print(re)
+        print(re)
         rs = pd.DataFrame.from_dict(re)
         rs['iid'] = rs.index
         rs.drop(columns=['stock_bond_drift'],inplace=True)
         rs.to_sql(con=self.conns,name='rebalance_out',if_exists='append', index=False)
         rs.to_csv("result.csv",index=False)
-        # print(rs.head())
+        print(rs.head())
 
 c = RebalanceTest()
 c.load_para()
-# print(c.test())
+print(c.test())
