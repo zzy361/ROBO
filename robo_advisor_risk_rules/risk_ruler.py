@@ -37,7 +37,7 @@ class risk_ruler:
         latest_risk_data.index = latest_risk_data['asset_name']
         latest_risk_data = latest_risk_data.reindex(big_asset_list)
 
-        former_day = original_data['risk_date'].unique()[-1]
+        former_day = original_data['risk_date'].unique()[-2]
         former_day_data = original_data[original_data['risk_date'] == former_day]
         former_day_data = former_day_data[former_day_data['asset_name'].isin(big_asset_list)]
         former_day_data.index = former_day_data['asset_name']
@@ -142,7 +142,6 @@ class risk_ruler:
             self.risk_comment += 'minor_risk_signal<=' + str(minor_asset_para) +temp_str+ '_&_'
             return [self.rule_code, 1]
         else:
-            self.rule_code += 'minor_risk_signal'
             return [self.rule_code, 0]
 
     def mdd_risk_signal(self, mdd, mdd_para):
