@@ -101,7 +101,7 @@ class risk_ruler:
         signal_sign = np.max(df_risk['risk_signal'].values)
         today_str = (datetime.today().date()).strftime('%Y%m%d')
         if signal_sign:
-            self.risk_comment = self.risk_comment[:-5]
+            self.risk_comment = self.risk_comment[:-3]
             self.final_risk_signal = 1
             self.final_risk_df.loc[poc_name, :] = [today_str, self.poc_name, self.rule_code, self.risk_comment]
         else:
@@ -146,13 +146,13 @@ class risk_ruler:
 
     def mdd_risk_signal(self, mdd, mdd_para):
         """
-        信号3
+        信号5
         自有信号、最大回撤信号
         此版本不加！！！！！！！！！！！！！！！！！！！！！！
         :return:
         """
         if mdd < mdd_para:
-            self.rule_code += '3'
+            self.rule_code += '5'
             self.risk_comment += 'mdd_risk_signal <=' + str(mdd_para) + '_&_'
             return [self.rule_code, 1]
         else:
@@ -160,14 +160,14 @@ class risk_ruler:
 
     def added_asset_diff_risk_signal(self, risk_data, down_para,added_asset_list):
         """
-        信号4
+        信号3
         监控附加大类资产是否产生风控信号,
         :return:
         """
         risk_data = risk_data[risk_data['asset'].isin(added_asset_list)]
         temp_df = risk_data[risk_data['former_change_risk'].values - risk_data['latest_risk'].values >= down_para]
         if temp_df.shape[0]!=0:
-            self.rule_code += '4'
+            self.rule_code += '3'
             temp_str = self.risk_asset_comment_get(data=temp_df)
             self.risk_comment += 'added_asset_diff_signal>=' + str(down_para) +temp_str+ '_&_'
             return [self.rule_code, 1]
@@ -176,13 +176,13 @@ class risk_ruler:
 
     def former_day_diff_signal(self, risk_data, down_para):
         """
-        信号5
+        信号4
         跟前一天的信号进行比较，若降得很多，超过阈值，则进行调仓
         :return:
         """
         temp_df = risk_data[risk_data['former_day_risk'].values - risk_data['latest_risk'].values >= down_para]
         if temp_df.shape[0]!=0:
-            self.rule_code += '5'
+            self.rule_code += '4'
             temp_str = self.risk_asset_comment_get(data=temp_df)
             self.risk_comment += 'former_day_diff_signal>=' + str(down_para) +temp_str+ '_&_'
             return [self.rule_code, 1]
